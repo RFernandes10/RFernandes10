@@ -1,4 +1,4 @@
-<h1 align="left">About Me</h1>
+<h1 align="left">About Me 😎</h1>
 
 ###
 
@@ -51,6 +51,8 @@
 
 ###
 
+<br clear="both">
+
 <img src="https://raw.githubusercontent.com/RFernandes10/RFernandes10/output/snake.svg" alt="Snake animation" />
 
 ###
@@ -72,6 +74,18 @@
   <a href="55+21 97265-7221" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
   </a>
+</div>
+
+###
+
+<div align="center">
+  <img src="https://www.youtube.com/watch?v=5r3B7yz6J68&list=RD5r3B7yz6J68&start_radio=1?theme=white&spin=false&rainbow=false" alt="Widget with the current Spotify song"  />
+</div>
+
+###
+
+<div align="right">
+  <img src="https://profile-counter.glitch.me/RFernandes10/count.svg?"  />
 </div>
 
 ###
