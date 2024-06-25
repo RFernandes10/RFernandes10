@@ -53,7 +53,7 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/RFernandes10/RFernandes10/output/snake.svg" alt="Snake animation" />
+# ![snake gif](https://github.com/RFernandes10/RFernandes10/blob/output/github-contribution-grid-snake.gif)
 
 ###
 
