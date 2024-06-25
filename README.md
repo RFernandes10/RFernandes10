@@ -78,9 +78,7 @@
 
 ###
 
-<div align="center">
-  <img src="https://www.youtube.com/watch?v=5r3B7yz6J68&list=RD5r3B7yz6J68&start_radio=1?theme=white&spin=false&rainbow=false" alt="Widget with the current Spotify song"  />
-</div>
+
 
 ###
 
