@@ -53,8 +53,6 @@
 
 <br clear="both">
 
-# ![snake gif](https://github.com/RFernandes10/RFernandes10/blob/output/github-contribution-grid-snake.gif)
-
 ###
 
 <h4 align="left">Social Media</h4>
