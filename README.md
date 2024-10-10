@@ -6,7 +6,7 @@ Durante minha jornada acadêmica, desenvolvi uma forte base em princípios de en
 
 ---
 
-## 🔍 Extended Description / Descrição estendida
+## 🔍 Extended Description / Descrição Estendida
 
 Minha jornada como desenvolvedor começou com um interesse por como as coisas funcionam por trás das telas. Esse interesse me levou a mergulhar de cabeça no desenvolvimento de software, com um foco especial no Front-End. Ao longo da minha graduação em **Engenharia de Software**, participei de projetos que me desafiaram a criar soluções eficientes e escaláveis.
 
