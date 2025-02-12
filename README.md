@@ -1,71 +1,48 @@
-# 👨‍💻 Roberto Fernandes Fonseca - Engenheiro de Software & FullStack Developer
+<div align="center">
+  <img src="https://i.pinimg.com/originals/0f/25/e4/0f25e4668c1c7740b5ed41835339d67f.gif" alt="Software Developer">
+</div>
 
-Olá! Sou **Roberto Fernandes Fonseca**, um apaixonado por tecnologia do **Rio de Janeiro**, com **38 anos**.  
-Atuo como **Engenheiro de Software** e **Desenvolvedor Full Stack**, sempre buscando inovação e aprimoramento contínuo.  
+# 🚀 Olá, eu sou Roberto Fernandes - Software Developer
 
-Atualmente, compartilho meu conhecimento através de redes sociais, escrevo sobre desenvolvimento web e contribuo com projetos open-source.
+## Sobre mim
 
----
+✨ Sou um desenvolvedor Fullstack e estudante de Engenharia de Software pela Faculdade Anhanguera Ampli, com previsão de formatura para maio de 2025. Apaixonado por desafios criativos e soluções inovadoras, busco constantemente aprender e evoluir na área de desenvolvimento. ✨
 
-## 🚀 Tecnologias & Ferramentas  
+## Habilidades Tecnológicas
 
-### **Front-end:**  
-<p align="center">
-  <img alt="HTML" title="HTML" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
-  <img alt="CSS" title="CSS" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
-  <img alt="JavaScript" title="JavaScript" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
-  <img alt="TypeScript" title="TypeScript" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
-  <img alt="React" title="React" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
-  <img alt="Next.js" title="Next.js" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" />
-  <img alt="Bootstrap" title="Bootstrap" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" />
-  <img alt="Tailwind" title="Tailwind" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
-</p>
+💻 Aqui estão algumas das tecnologias que eu domino:
 
-### **Back-end:**  
-<p align="center">
-  <img alt="Node.js" title="Node.js" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />
-  <img alt="PHP" title="PHP" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
-  <img alt="Laravel" title="Laravel" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" />
-  <img alt="Python" title="Python" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
-</p>
+-  Linguagens de Programação: 
 
-### **Ferramentas & Versionamento:**  
-<p align="center">
-  <img alt="Git" title="Git" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
-  <img alt="Docker" title="Docker" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />
-</p>
+    [![My Skills](https://skillicons.dev/icons?i=java,javascript,python)](https://skillicons.dev)
+- Frameworks e Bibliotecas: 
 
----
+    [![My Skills](https://skillicons.dev/icons?i=spring,react,django)](https://skillicons.dev)
+- Dados: 
 
-## 📊 Estatísticas
+    [![My Skills](https://skillicons.dev/icons?i=mysql,mongo)](https://skillicons.dev)
+- Ferramentas e Tecnologias: 
 
-<p align="center">
-  <img 
-    alt="GitHub Stats" 
-    height="180px" 
-    src="https://github-readme-stats.vercel.app/api?username=RobertoFernandes&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&locale=pt-br" 
-  />
-  <img 
-    alt="Top Langs" 
-    height="180px" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=RobertoFernandes&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-</p>
+    [![My Skills](https://skillicons.dev/icons?i=git,github,visualstudio,eclipse)](https://skillicons.dev)
+- Desenvolvimento Web:
 
+    [![My Skills](https://skillicons.dev/icons?i=php,html,css)](https://skillicons.dev) 
+## Projetos Criativos
 
+🎨 Aqui estão alguns dos meus projetos mais criativos e inovadores:
 
----
+1. [Projeto 1](https://github.com/[seu-usuario]/projeto1): Uma descrição emocionante do projeto e como ele mudou o mundo.
+2. [Projeto 2](https://github.com/[seu-usuario]/projeto2): Uma aventura fascinante com código e arte.
+3. [Projeto 3](https://github.com/[seu-usuario]/projeto3): Uma experiência interativa que desafia as leis da física.
 
-## 📫 Contato  
+## Vamos Criar Algo Incrível! 💫
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/seu-linkedin" target="_blank">
-    <img alt="LinkedIn" title="LinkedIn" width="120px" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:seuemail@gmail.com">
-    <img alt="E-mail" title="E-mail" width="100px" src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://seuportfolio.com" target="_blank">
-    <img alt="Portfólio" title="Portfólio" width="120px" src="https://img.shields.io/badge/-Portfólio-FF5722?style=for-the-badge&logo=react&logoColor=white" />
-  </a>
-</p>
+💬 Quer colaborar em um projeto criativo e inovador? Estou sempre aberto a novas ideias e parcerias. Entre em contato comigo para discutirmos como podemos criar algo verdadeiramente extraordinário juntos. ✉️
+
+## Vamos Conectar!
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=LinkedIn&logoColor=white&link=SEU_LINK_LINKEDIN)](SEU_LINK_LINKEDIN)
+[![Gmail](https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:SEU_EMAIL)](mailto:SEU_EMAIL)
+[![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=GitHub&logoColor=white&link=SEU_LINK_GITHUB)](SEU_LINK_GITHUB)
+
+![DiasEllen26 GitHub stats](https://github-readme-stats.vercel.app/api?username=DiasEllen26\&rank_icon=percentile)
