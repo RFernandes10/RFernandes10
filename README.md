@@ -45,4 +45,4 @@
 [![Gmail](https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:SEU_EMAIL)](mailto:SEU_EMAIL)
 [![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=GitHub&logoColor=white&link=SEU_LINK_GITHUB)](SEU_LINK_GITHUB)
 
-![DiasEllen26 GitHub stats](https://github-readme-stats.vercel.app/api?username=DiasEllen26\&rank_icon=percentile)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=robertofernandes\&rank_icon=percentile)
