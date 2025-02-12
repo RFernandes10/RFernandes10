@@ -1,48 +1,60 @@
 <div align="center">
-  <img src="https://i.pinimg.com/originals/0f/25/e4/0f25e4668c1c7740b5ed41835339d67f.gif" alt="Software Developer">
+  <img src="https://i.pinimg.com/originals/0f/25/e4/0f25e4668c1c7740b5ed41835339d67f.gif" alt="Software Developer" width="400">
 </div>
 
-# 🚀 Olá, eu sou Roberto Fernandes - Software Developer
+# 🚀 Roberto Fernandes Fonseca - Engenheiro de Software & FullStack Developer
 
-## Sobre mim
+## 👨💻 Sobre Mim
 
-✨ Sou um desenvolvedor Fullstack e estudante de Engenharia de Software pela Faculdade Anhanguera Ampli, com previsão de formatura para maio de 2025. Apaixonado por desafios criativos e soluções inovadoras, busco constantemente aprender e evoluir na área de desenvolvimento. ✨
+✨ Desenvolvedor FullStack com **5+ anos de experiência** construindo soluções tecnológicas inovadoras. Atualmente cursando **Engenharia de Software na Anhanguera (previsão 2025)**, combinando conhecimento acadêmico com prática profissional para criar sistemas escaláveis e eficientes. Apaixonado por resolver problemas complexos através de código limpo e arquiteturas modernas. ✨
 
-## Habilidades Tecnológicas
+## 🛠 Habilidades Tecnológicas
 
-💻 Aqui estão algumas das tecnologias que eu domino:
+### 💻 Linguagens de Programação
+[![My Skills](https://skillicons.dev/icons?i=java,javascript,python,php)](https://skillicons.dev)
 
--  Linguagens de Programação: 
+### 🌐 Frontend & Mobile
+[![My Skills](https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,bootstrap)](https://skillicons.dev)
 
-    [![My Skills](https://skillicons.dev/icons?i=java,javascript,python)](https://skillicons.dev)
-- Frameworks e Bibliotecas: 
+### ⚙️ Backend & Banco de Dados
+[![My Skills](https://skillicons.dev/icons?i=spring,django,nodejs,mysql,mongodb,postgresql)](https://skillicons.dev)
 
-    [![My Skills](https://skillicons.dev/icons?i=spring,react,django)](https://skillicons.dev)
-- Dados: 
+### 🔧 Ferramentas & DevOps
+[![My Skills](https://skillicons.dev/icons?i=git,github,docker,aws,visualstudio,eclipse,postman)](https://skillicons.dev)
 
-    [![My Skills](https://skillicons.dev/icons?i=mysql,mongo)](https://skillicons.dev)
-- Ferramentas e Tecnologias: 
+## 🎨 Projetos Inovadores
 
-    [![My Skills](https://skillicons.dev/icons?i=git,github,visualstudio,eclipse)](https://skillicons.dev)
-- Desenvolvimento Web:
+1. **[CollabSpace](https://github.com/RobertoFernandes/collab-space)**  
+   Plataforma de colaboração em tempo real com editor de código integrado  
+   `React + Spring Boot + WebSockets` | 🏆 **Destaque Open Source 2023**
 
-    [![My Skills](https://skillicons.dev/icons?i=php,html,css)](https://skillicons.dev) 
-## Projetos Criativos
+2. **[EcoVision AR](https://github.com/RobertoFernandes/ecovision-ar)**  
+   E-commerce sustentável com visualização 3D de produtos  
+   `Three.js + Node.js + AWS` | 🚀 **Finalista Hackathon Tech 2024**
 
-🎨 Aqui estão alguns dos meus projetos mais criativos e inovadores:
+3. **[CodeMentor AI](https://github.com/RobertoFernandes/code-mentor-ai)**  
+   Assistente de programação com ChatGPT e análise de código  
+   `Python + TensorFlow + FastAPI` | ⚡ **Em desenvolvimento**
+   
+ 🌐 Conecte-se Comigo 
 
-1. [Projeto 1](https://github.com/[seu-usuario]/projeto1): Uma descrição emocionante do projeto e como ele mudou o mundo.
-2. [Projeto 2](https://github.com/[seu-usuario]/projeto2): Uma aventura fascinante com código e arte.
-3. [Projeto 3](https://github.com/[seu-usuario]/projeto3): Uma experiência interativa que desafia as leis da física.
+<p align="center"> <a href="https://linkedin.com/in/roberto-fernandes" target="_blank"> <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"> </a> <a href="mailto:contato@roberto.dev"> <img src="https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail"> </a> <a href="https://roberto.dev" target="_blank"> <img src="https://img.shields.io/badge/-Portfólio-FF6B6B?style=for-the-badge&logo=react&logoColor=white" alt="Portfolio"> </a> </p><div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=RobertoFernandes&show_icons=true&theme=radical&include_all_commits=true" alt="Estatísticas GitHub"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RobertoFernandes&layout=compact&theme=radical&langs_count=8" alt="Linguagens Mais Usadas"> </div>
 
-## Vamos Criar Algo Incrível! 💫
+## 🚀 Vamos Inovar Juntos!
 
-💬 Quer colaborar em um projeto criativo e inovador? Estou sempre aberto a novas ideias e parcerias. Entre em contato comigo para discutirmos como podemos criar algo verdadeiramente extraordinário juntos. ✉️
+💡 **Ideias em mente?** Vamos transformá-las em realidade! Estou sempre aberto para:
+- Parcerias em projetos open-source
+- Desafios tecnológicos complexos
+- Mentoria para novos desenvolvedores
 
-## Vamos Conectar!
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=LinkedIn&logoColor=white&link=SEU_LINK_LINKEDIN)](SEU_LINK_LINKEDIN)
-[![Gmail](https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:SEU_EMAIL)](mailto:SEU_EMAIL)
-[![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=GitHub&logoColor=white&link=SEU_LINK_GITHUB)](SEU_LINK_GITHUB)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=robertofernandes\&rank_icon=percentile)
+📫 **Como me alcançar:**
+```java
+public class Contato {
+    public static void main(String[] args) {
+        String email = "contato@roberto.dev";
+        String linkedin = "https://linkedin.com/in/roberto-fernandes";
+        String portfolio = "https://roberto.dev";
+        
+        System.out.println("Vamos conversar sobre tecnologia! ✨");
+    }
+}
