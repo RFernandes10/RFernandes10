@@ -1,13 +1,15 @@
 ## 🌟 Sobre Mim
 
-Olá! Eu sou **Roberto Fernandes**, um desenvolvedor frontend apaixonado por criar interfaces modernas, responsivas e centradas no usuário. Trabalho principalmente com tecnologias como **JavaScript (ES6+)**, **TypeScript**, **React**, **HTML5**, **CSS3** e **Sass**, transformando ideias em experiências digitais impactantes.
+Olá! Eu sou **Roberto Fernandes**, um desenvolvedor frontend apaixonado por criar interfaces modernas, responsivas e centradas no usuário. Trabalho principalmente com tecnologias como **JavaScript (ES6+)**, **TypeScript**, **React**, **HTML5**, **Tailwind CSS**, **CSS3** e **Sass**, transformando ideias em experiências digitais impactantes.
 
 Minha jornada no desenvolvimento começou com a curiosidade de entender como as interfaces funcionam e evoluiu para uma missão de criar soluções que melhorem a vida das pessoas. Acredito que a tecnologia é uma ferramenta poderosa para resolver problemas reais e promover crescimento.
 
 Atualmente, estou focado em:
-- **Desenvolvimento Frontend**: Criando interfaces intuitivas e performáticas.
-- **Aprendizado Contínuo**: Explorando novas tecnologias como **GraphQL**, **Next.js** e **Figma**.
-- **Colaboração em Projetos Open Source**: Contribuindo para comunidades e projetos inovadores.
+
+- **Desenvolvimento Frontend**: Criando interfaces intuitivas, responsivas e performáticas utilizando tecnologias como **React**, **TypeScript**, **HTML5** e **CSS3**.
+- **Aprendizado de Backend**: Expandindo meu conhecimento em **Node.js**, **Express**, **Bancos de Dados (MySQL, MongoDB)** e APIs RESTful/GraphQL. Meu objetivo é dominar o desenvolvimento full stack.
+- **Colaboração em Projetos Open Source**: Contribuindo para comunidades e projetos inovadores, aplicando tanto minhas habilidades frontend quanto backend.
+- **Exploração de Novas Tecnologias**: Estudando frameworks como **Next.js**, ferramentas de DevOps (**Docker**, **CI/CD**) e práticas modernas de arquitetura de software.
 
 Se você deseja discutir ideias ou colaborar em projetos, fique à vontade para entrar em contato!
 
