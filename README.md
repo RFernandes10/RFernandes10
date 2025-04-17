@@ -11,7 +11,7 @@ Se você deseja discutir ideias ou colaborar em projetos, fique à vontade para 
 ## 💻 Habilidades Técnicas
 
 <div style="display: inline_block"><br>
-  <!-- Linguagens de Programação -->
+<!-- Linguagens de Programação -->
   <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="TypeScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
   <img align="center" alt="HTML5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -19,13 +19,13 @@ Se você deseja discutir ideias ou colaborar em projetos, fique à vontade para 
 
   <!-- Frameworks e Bibliotecas -->
   <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Node.js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+  <img align="center" alt="Axios" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/axios/axios-plain.svg">
+  <img align="center" alt="Express" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg">
+  <img align="center" alt="Tailwind CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg">
+  <!-- Mantendo Next.js e Vue.js como placeholders, pendente confirmação -->
   <img align="center" alt="Next.js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
   <img align="center" alt="Vue.js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg">
-  <img align="center" alt="Node.js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-
-  <!-- Ferramentas -->
-  <img align="center" alt="Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-  <img align="center" alt="Figma" height="30" width="40" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg">
 </div>
 
 ---
