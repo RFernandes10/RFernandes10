@@ -1,10 +1,10 @@
 ## 🌟 Sobre Mim
 
-Olá! Eu sou **Roberto Fernandes**, um desenvolvedor frontend apaixonado por criar interfaces modernas, responsivas e centradas no usuário. Trabalho com **React**, **TypeScript**, **HTML5**, **CSS3** e **Tailwind CSS**, transformando ideias em experiências digitais impactantes.
+Olá! Eu sou **Roberto Fernandes**, um desenvolvedor frontend apaixonado por criar interfaces modernas, responsivas e centradas no usuário, com um toque de criatividade! 💡 Utilizo **React**, **TypeScript**, **HTML5**, **CSS3** e **Tailwind CSS** para transformar ideias em experiências digitais impactantes, como meu [Dashboard de Clima](https://github.com/RFernandes10/weather-dashboard), que combina gráficos dinâmicos e design fluido.
 
-Minha jornada no desenvolvimento começou com a curiosidade de entender como as interfaces funcionam e evoluiu para uma missão de criar soluções que melhorem a vida das pessoas. Atualmente, estou expandindo meu conhecimento em backend (**Node.js**, **Express**, **MongoDB**) para me tornar um desenvolvedor full stack. Confira meu [portfólio online](https://RFernandes10.github.io/portfolio) para ver mais!
+Minha jornada no desenvolvimento começou com a curiosidade de desvendar o funcionamento das interfaces, evoluindo para uma missão de construir soluções que inspirem e melhorem a vida das pessoas. Atualmente, estou mergulhando no backend com **Node.js**, **Express** e **MongoDB** para me tornar um desenvolvedor full stack completo. Explore meu [portfólio online](https://RFernandes10.github.io/portfolio) e veja meu trabalho em ação! 🌐
 
-Se você deseja discutir ideias ou colaborar em projetos, fique à vontade para entrar em contato!
+Se você deseja discutir ideias, colaborar em projetos ou explorar novas possibilidades, sinta-se à vontade para entrar em contato! 🚀
 
 ---
 
