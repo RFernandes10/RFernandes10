@@ -2,7 +2,7 @@
 
 Olá! Eu sou **Roberto Fernandes**, um desenvolvedor frontend apaixonado por criar interfaces modernas, responsivas e centradas no usuário. Trabalho com **React**, **TypeScript**, **HTML5**, **CSS3** e **Tailwind CSS**, transformando ideias em experiências digitais impactantes.
 
-Minha jornada no desenvolvimento começou com a curiosidade de entender como as interfaces funcionam e evoluiu para uma missão de criar soluções que melhorem a vida das pessoas. Atualmente, estou expandindo meu conhecimento em backend (**Node.js**, **Express**, **MongoDB**) para me tornar um desenvolvedor full stack.
+Minha jornada no desenvolvimento começou com a curiosidade de entender como as interfaces funcionam e evoluiu para uma missão de criar soluções que melhorem a vida das pessoas. Atualmente, estou expandindo meu conhecimento em backend (**Node.js**, **Express**, **MongoDB**) para me tornar um desenvolvedor full stack. Confira meu [portfólio online](https://RFernandes10.github.io/portfolio) para ver mais!
 
 Se você deseja discutir ideias ou colaborar em projetos, fique à vontade para entrar em contato!
 
@@ -20,14 +20,45 @@ Se você deseja discutir ideias ou colaborar em projetos, fique à vontade para 
   <!-- Frameworks e Bibliotecas -->
   <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Node.js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-  <img align="center" alt="Axios" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/axios/axios-plain.svg">
-  <img align="center" alt="Express" height="30" width="40" color="#fff" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg">
+  <img align="center" alt="Express" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg">
   <img align="center" alt="Tailwind CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg">
   <img align="center" alt="PostgreSQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
   <!-- Mantendo Next.js e Vue.js como placeholders, pendente confirmação -->
   <img align="center" alt="Next.js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
   <img align="center" alt="Vue.js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg">
 </div>
+
+---
+
+## 🚀 Projetos
+
+Aqui estão alguns dos meus projetos recentes no GitHub:
+
+- **[Plataforma de E-commerce](https://github.com/RFernandes10/ecommerce)**  
+  Uma plataforma completa com carrinho de compras, sistema de pagamento e painel administrativo.  
+  *Tecnologias*: React, Node.js, PostgreSQL, Stripe.
+
+- **[Aplicativo de Gerenciamento de Tarefas](https://github.com/RFernandes10/task-app)**  
+  Aplicativo com colaboração em tempo real e notificações.  
+  *Tecnologias*: Next.js, TypeScript, Prisma, Socket.io.
+
+- **[Dashboard de Clima](https://github.com/RFernandes10/weather-dashboard)**  
+  Dashboard interativo com gráficos dinâmicos e previsões meteorológicas.  
+  *Tecnologias*: React, Chart.js, Weather API, Tailwind.
+
+- **[Portfolio CMS](https://github.com/RFernandes10/portfolio-cms)**  
+  Sistema de gerenciamento de conteúdo customizado para portfólios.  
+  *Tecnologias*: Next.js, Headless CMS, GraphQL, Vercel.
+
+---
+
+## 🎓 Certificações
+
+- **Formação Front-end - HTML, CSS, JavaScript, React e +**  
+  Udemy (Matheus Battisti, Hora de Codar) - 50,5 horas, 18 de Janeiro de 2024.
+
+- **Ciência da Computação de Harvard no Brasil**  
+  Fundação Estudar - 70 horas, 23 de Agosto de 2024 (Aproveitamento ≥ 75%).
 
 ---
 
@@ -49,6 +80,7 @@ Se você quiser conversar sobre projetos, colaborações ou apenas trocar ideias
 
 - 📧 E-mail: [robertofernandes144@gmail.com](mailto:robertofernandes144@gmail.com)
 - 🌐 LinkedIn: [linkedin.com/in/robertoffernandes](https://www.linkedin.com/in/robertoffernandes/)
+- 🌐 Portfólio: [RFernandes10.github.io/portfolio](https://RFernandes10.github.io/portfolio)
 
 ---
 
