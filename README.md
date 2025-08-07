@@ -17,10 +17,29 @@ Tenho focado meus estudos em **JavaScript**, **Node.js** e **React**, com o obje
 
 ## 📌 Sobre mim
 
-- 🎓 Graduando em Engenharia de Software na Anhanguera.
-- 📚 Estudando JavaScript, Node.js, React e desenvolvimento fullstack.
-- 🌍 Explorando novas tecnologias e desenvolvendo soluções de software.
-- ❤️ Tenho um [studygram](https://www.instagram.com/eduardavieira.dev?igsh=MTIzbGJ6YjN0dHoyYw%3D%3D&utm_source=qr), onde compartilho dicas da área e incentivo outros devs!
+- 🎓 Graduando em Engenharia de Software na Anhanguera.  
+- 📚 Estudando JavaScript, Node.js, React e desenvolvimento fullstack.  
+- 🌍 Explorando novas tecnologias e desenvolvendo soluções de software.  
+- 🔗 [LinkedIn - Roberto Wolowitz](https://www.linkedin.com/in/roberto-wolowitz/)
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/roberto-wolowitz/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
+  </a>
+  <a href="mailto:robertofernandes144@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo" />
+  </a>
+  <a href="https://discord.com/users/fernandes_86" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo" />
+  </a>
+  <a href="https://stackoverflow.com/users/21966416/roberto-fonseca" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Stackoverflow&logo=stackoverflow&label=&color=FE7A16&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="stackoverflow logo" />
+  </a>
+  <a href="https://wa.me/5521972657221" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="whatsapp logo" />
+  </a>
+</div>
+
 
 ---
 
