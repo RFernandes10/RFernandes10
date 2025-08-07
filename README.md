@@ -6,6 +6,7 @@
 
 ---
 
+
 # 👦🏻 Olá, eu sou o Roberto Fernandes!
 
 Desenvolvedor em formação, comprometido em criar soluções modernas, funcionais e com propósito.
@@ -88,5 +89,10 @@ Quer trocar uma ideia, colaborar ou bater um papo sobre tecnologia?
 
 ## 🌈 Citação Favorita
 
-> _"Um design bonito é aquele que funciona bem. A beleza surge quando a forma segue a função."_  
-> — Steve Jobs
+<div style="display: flex; align-items: center; gap: 20px;">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" alt="Pac-Man animado" width="160" style="border-radius: 12px;" />
+  <blockquote style="font-style: italic; font-size: 1.2rem; color: #555; margin: 0;">
+    "Um design bonito é aquele que funciona bem. A beleza surge quando a forma segue a função."  
+    <br/>— Steve Jobs
+  </blockquote>
+</div>
