@@ -220,7 +220,7 @@ const roberto = {
 
 - 📧 **E-mail:** [robertofernandes144@gmail.com](mailto:robertofernandes144@gmail.com)
 - 💼 **LinkedIn:** [Roberto Wolowitz](https://www.linkedin.com/in/roberto-wolowitz/)
-- 🌐 **Portfólio:** [RFernandes10.github.io/portfolio](https://RFernandes10.github.io/portfolio)
+- 🌐 **Portfólio:** [https://rfernandes10.github.io/portfolio-web/)
 - 💬 **Discord:** fernandes_86
 - 📱 **WhatsApp:** [(21) 97265-7221](https://wa.me/5521972657221)
 
