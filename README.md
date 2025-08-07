@@ -1,3 +1,15 @@
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RFernandes10/RFernandes10/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RFernandes10/RFernandes10/output/pacman-contribution-graph.svg">
+  <img alt="Pac‑Man contribution graph" src="https://raw.githubusercontent.com/RFernandes10/RFernandes10/output/pacman-contribution-graph.svg">
+</picture>
+
+<p align="center">
+  <em>Gráfico gerado com <a href="https://github.com/abozanona/pacman-contribution-graph">abozanona/pacman-contribution-graph</a></em>
+</p>
+
+---
+
 # 👦🏻 Olá, eu sou o Roberto Fernandes!
 
 Desenvolvedor em formação, comprometido em criar soluções modernas, funcionais e com propósito.
@@ -17,12 +29,12 @@ Tenho focado meus estudos em **JavaScript**, **Node.js** e **React**, com o obje
 
 ## 💻 Habilidades Técnicas
 
-| Tecnologias | |
-|------------|--|
-| **Linguagens:** | ![JavaScript](https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg) ![TypeScript](https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg) ![HTML5](https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg) ![CSS3](https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg) |
-| **Frameworks e Libs:** | ![React](https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg) ![Node.js](https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg) ![Express](https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg) ![Tailwind](https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg) |
-| **Banco de Dados:** | ![PostgreSQL](https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg) |
-| **Outros:** | ![Next.js](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg) ![Vue.js](https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg) |
+| Categoria | Tecnologias |
+|----------|-------------|
+| **Linguagens** | ![JavaScript](https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg) ![TypeScript](https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg) ![HTML5](https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg) ![CSS3](https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg) |
+| **Frameworks / Libs** | ![React](https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg) ![Node.js](https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg) ![Express](https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg) ![Tailwind](https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg) |
+| **Banco de Dados** | ![PostgreSQL](https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg) |
+| **Outros** | ![Next.js](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg) ![Vue.js](https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg) |
 
 ---
 
