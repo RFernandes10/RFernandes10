@@ -4,10 +4,6 @@
   <img alt="Pac‑Man contribution graph" src="https://raw.githubusercontent.com/RFernandes10/RFernandes10/output/pacman-contribution-graph.svg">
 </picture>
 
-<p align="center">
-  <em>Gráfico gerado com <a href="https://github.com/abozanona/pacman-contribution-graph">abozanona/pacman-contribution-graph</a></em>
-</p>
-
 ---
 
 # 👦🏻 Olá, eu sou o Roberto Fernandes!
