@@ -1,23 +1,23 @@
 <!-- Banner animado -->
 <h1 align="center">
-  👋 Olá, eu sou o <span style="color:#58a6ff">Roberto Fernandes</span>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Olá,+eu+sou+Roberto+Fernandes;Engenheiro+de+Software;Desenvolvedor+Full+Stack;Apaixonado+por+tecnologia+💻" alt="Typing SVG" />
 </h1>
 
 <p align="center">
-  🚀 Engenheiro de Software | 💡 Desenvolvedor Full Stack | 🧠 Apaixonado por tecnologia
+  🚀 Engenheiro de Software | 💡 Desenvolvedor Full Stack | 🧠 Apaixonado por tecnologia e inovação
 </p>
 
 ---
 
 ## 🧩 Sobre mim
 
-Sou um **Engenheiro de Software** apaixonado por tecnologia e boas práticas de código.  
-Atuo no desenvolvimento **Full Stack**, construindo aplicações escaláveis, performáticas e bem estruturadas.
+Sou um **Engenheiro de Software** apaixonado por desenvolvimento web e boas práticas de código.  
+Crio soluções escaláveis e performáticas com foco em **qualidade, arquitetura limpa e automação**.
 
-- 🔭 Atualmente focado em **Node.js, React, TypeScript e Docker**  
+- 🔭 Atualmente trabalhando com **Node.js, React, TypeScript e Docker**  
 - 🧪 Experiência com **Testes Automatizados (Jest)**  
-- 💬 Interesse em **Clean Architecture, Microsserviços e CI/CD**  
-- ⚡ Curioso por tecnologias modernas e sempre aprendendo algo novo  
+- ☁️ Conhecimento em **Deploy e CI/CD**  
+- ⚡ Buscando constante evolução e aprendizado contínuo  
 
 ---
 
@@ -51,6 +51,15 @@ Atuo no desenvolvimento **Full Stack**, construindo aplicações escaláveis, pe
 
 ---
 
+## 🎓 Certificações & Formação
+
+| 📜 Curso | 🏫 Instituição | 🔗 Link / Data |
+|-----------|----------------|----------------|
+| **Formação Front-end - HTML, CSS, JavaScript, React e +** | [Udemy](https://www.udemy.com/) | [Ver certificado](https://ude.my/UC-acb46a6b-48ab-4f26-8e3c-231b1d5ec806) <br> 🗓️ *Concluído em 18 de Janeiro de 2024* |
+| **DevQuest Full-Stack (Front + Back-end)** | [Dev em Dobro](https://cursos.devemdobro.com/area/vitrine) | 💻 *Em andamento / concluído conforme progresso* |
+
+---
+
 ## 📊 Estatísticas do GitHub
 
 <div align="center">
@@ -58,8 +67,6 @@ Atuo no desenvolvimento **Full Stack**, construindo aplicações escaláveis, pe
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RFernandes10&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RFernandes10&layout=compact&theme=tokyonight&hide_border=true&border_radius=15)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=RFernandes10&theme=tokyonight&hide_border=true&border_radius=15)
-
-
 
 </div>
 
