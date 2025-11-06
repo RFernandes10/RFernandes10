@@ -4,8 +4,13 @@
 </h1>
 
 <p align="center">
-  🚀 Engenheiro de Software | 💡 Desenvolvedor Full Stack | 🧠 Apaixonado por tecnologia e inovação
+  <img alt="Engenheiro de Software" src="https://img.shields.io/badge/🚀%20Engenheiro%20de%20Software-007ACC?style=for-the-badge&labelColor=0D1117" />
+  <img alt="Desenvolvedor Full Stack" src="https://img.shields.io/badge/💡%20Desenvolvedor%20Full%20Stack-F0D81E?style=for-the-badge&labelColor=0D1117" />
+  <img alt="Apaixonado por tecnologia e inovação" src="https://img.shields.io/badge/🧠%20Apaixonado%20por%20tecnologia%20e%20inovação-29a825?style=for-the-badge&labelColor=0D1117" />
 </p>
+
+
+
 
 ---
 
