@@ -1,5 +1,7 @@
 <!-- Banner animado -->
-<h1 align="center">👋 Olá, eu sou o <span style="color:#58a6ff">Roberto Fernandes</span></h1>
+<h1 align="center">
+  👋 Olá, eu sou o <span style="color:#58a6ff">Roberto Fernandes</span>
+</h1>
 
 <p align="center">
   🚀 Engenheiro de Software | 💡 Desenvolvedor Full Stack | 🧠 Apaixonado por tecnologia
@@ -9,13 +11,13 @@
 
 ## 🧩 Sobre mim
 
-Sou um desenvolvedor que gosta de transformar ideias em aplicações reais e funcionais.  
-Tenho experiência com **front-end, back-end, bancos de dados e DevOps**, sempre aplicando boas práticas e testes automatizados.
+Sou um **Engenheiro de Software** apaixonado por tecnologia e boas práticas de código.  
+Atuo no desenvolvimento **Full Stack**, construindo aplicações escaláveis, performáticas e bem estruturadas.
 
 - 🔭 Atualmente focado em **Node.js, React, TypeScript e Docker**  
-- 🧪 Explorando **testes automatizados com Jest**  
-- 💬 Curioso por **arquiteturas escaláveis e clean code**  
-- ⚡ Fun fact: Eu acredito que commits bem descritos contam histórias melhores que comentários 😄  
+- 🧪 Experiência com **Testes Automatizados (Jest)**  
+- 💬 Interesse em **Clean Architecture, Microsserviços e CI/CD**  
+- ⚡ Curioso por tecnologias modernas e sempre aprendendo algo novo  
 
 ---
 
@@ -53,11 +55,9 @@ Tenho experiência com **front-end, back-end, bancos de dados e DevOps**, sempre
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&theme=tokyonight&hide_border=true&border_radius=15)
-
-<!-- Gráfico de atividade -->
-![GitHub Streak](https://streak-stats.demolab.com?user=SEU-USUARIO&theme=tokyonight&hide_border=true&border_radius=15)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RFernandes10&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RFernandes10&layout=compact&theme=tokyonight&hide_border=true&border_radius=15)
+![GitHub Streak](https://streak-stats.demolab.com?user=RFernandes10&theme=tokyonight&hide_border=true&border_radius=15)
 
 </div>
 
@@ -67,22 +67,22 @@ Tenho experiência com **front-end, back-end, bancos de dados e DevOps**, sempre
 
 | 🚧 Projeto | 🧠 Tecnologias | 🔗 Link |
 |-------------|----------------|----------|
-| **API de Gerenciamento de Usuários** | Node.js, Express, Prisma, Docker | [Ver repositório](https://github.com/SEU-USUARIO/api-usuarios) |
-| **Dashboard Financeiro** | React, TypeScript, Context API | [Ver repositório](https://github.com/SEU-USUARIO/dashboard-financeiro) |
-| **Testes Automatizados com Jest** | Jest, Node.js, Supertest | [Ver repositório](https://github.com/SEU-USUARIO/testes-automatizados) |
+| **API de Gerenciamento de Usuários** | Node.js, Express, Prisma, Docker | [Ver repositório](https://github.com/RFernandes10/api-usuarios) |
+| **Dashboard Financeiro** | React, TypeScript, Context API | [Ver repositório](https://github.com/RFernandes10/dashboard-financeiro) |
+| **Testes Automatizados com Jest** | Jest, Node.js, Supertest | [Ver repositório](https://github.com/RFernandes10/testes-automatizados) |
 
 ---
 
 ## 🌐 Contato & Redes
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/SEU-LINKEDIN/" target="_blank">
+  <a href="https://www.linkedin.com/in/roberto-wolowitz/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:seuemail@exemplo.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <a href="mailto:robertofernandes144@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://github.com/SEU-USUARIO" target="_blank">
+  <a href="https://github.com/RFernandes10" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
@@ -90,7 +90,7 @@ Tenho experiência com **front-end, back-end, bancos de dados e DevOps**, sempre
 ---
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SEU-USUARIO&theme=react-dark&bg_color=0D1117&hide_border=true" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RFernandes10&theme=react-dark&bg_color=0D1117&hide_border=true" alt="Activity Graph" />
 </p>
 
 ---
