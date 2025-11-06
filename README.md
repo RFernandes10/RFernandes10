@@ -82,12 +82,4 @@ Crio soluções escaláveis e performáticas com foco em **qualidade, arquitetur
   </a>
 </p>
 
----
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RFernandes10&theme=react-dark&bg_color=0D1117&hide_border=true" alt="Activity Graph" />
-</p>
-
----
-
-<p align="center">✨ “Escrever código é fácil, o difícil é escrever código limpo que funciona.” ✨</p>
