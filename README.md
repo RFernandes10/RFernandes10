@@ -55,8 +55,8 @@ Crio soluções escaláveis e performáticas com foco em **qualidade, arquitetur
 
 | 📜 Curso | 🏫 Instituição | 🔗 Link / Data |
 |-----------|----------------|----------------|
-| **Formação Front-end - HTML, CSS, JavaScript, React e +** | [Udemy](https://www.udemy.com/) | [Ver certificado](https://ude.my/UC-acb46a6b-48ab-4f26-8e3c-231b1d5ec806) <br> 🗓️ *Concluído em 18 de Janeiro de 2024* |
-| **DevQuest Full-Stack (Front + Back-end)** | [Dev em Dobro](https://cursos.devemdobro.com/area/vitrine) | 💻 *Em andamento / concluído conforme progresso* |
+| **Formação Front-end - HTML, CSS, JavaScript, React e +** | <img src="https://upload.wikimedia.org/wikipedia/commons/e/ef/Udemy_logo.svg" width="80"/> | [🎖️ Ver certificado](https://ude.my/UC-acb46a6b-48ab-4f26-8e3c-231b1d5ec806) <br> 🗓️ *Concluído em 18 de Janeiro de 2024* |
+| **DevQuest Full-Stack (Front + Back-end)** | <img src="https://devemdobro.com/assets/img/logo-devemdobro.svg" width="100"/> | [🌐 Plataforma do curso](https://cursos.devemdobro.com/area/vitrine) <br> 💻 *Em andamento / concluído conforme progresso* |
 
 ---
 
@@ -66,7 +66,7 @@ Crio soluções escaláveis e performáticas com foco em **qualidade, arquitetur
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RFernandes10&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RFernandes10&layout=compact&theme=tokyonight&hide_border=true&border_radius=15)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=RFernandes10&theme=tokyonight&hide_border=true&border_radius=15)
+
 
 </div>
 
