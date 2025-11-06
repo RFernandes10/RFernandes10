@@ -56,15 +56,6 @@ Crio soluções escaláveis e performáticas com foco em **qualidade, arquitetur
 
 ---
 
-## 🎓 Certificações & Formação
-
-| 📜 Curso | 🏫 Instituição | 🔗 Link / Data |
-|-----------|----------------|----------------|
-| **Formação Front-end - HTML, CSS, JavaScript, React e +** | <img src="https://upload.wikimedia.org/wikipedia/commons/e/ef/Udemy_logo.svg" width="80"/> | [🎖️ Ver certificado](https://ude.my/UC-acb46a6b-48ab-4f26-8e3c-231b1d5ec806) <br> 🗓️ *Concluído em 18 de Janeiro de 2024* |
-| **DevQuest Full-Stack (Front + Back-end)** | <img src="https://devemdobro.com/assets/img/logo-devemdobro.svg" width="100"/> | [🌐 Plataforma do curso](https://cursos.devemdobro.com/area/vitrine) <br> 💻 *Em andamento / concluído conforme progresso* |
-
----
-
 ## 📊 Estatísticas do GitHub
 
 <div align="center">
@@ -74,16 +65,6 @@ Crio soluções escaláveis e performáticas com foco em **qualidade, arquitetur
 
 
 </div>
-
----
-
-## ✨ Projetos em Destaque
-
-| 🚧 Projeto | 🧠 Tecnologias | 🔗 Link |
-|-------------|----------------|----------|
-| **API de Gerenciamento de Usuários** | Node.js, Express, Prisma, Docker | [Ver repositório](https://github.com/RFernandes10/api-usuarios) |
-| **Dashboard Financeiro** | React, TypeScript, Context API | [Ver repositório](https://github.com/RFernandes10/dashboard-financeiro) |
-| **Testes Automatizados com Jest** | Jest, Node.js, Supertest | [Ver repositório](https://github.com/RFernandes10/testes-automatizados) |
 
 ---
 
