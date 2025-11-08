@@ -4,9 +4,9 @@
 </h1>
 
 <p align="center">
-  <img alt="Engenheiro de Software" src="https://img.shields.io/badge/🚀%20Engenheiro%20de%20Software-007ACC?style=for-the-badge&labelColor=0D1117" />
-  <img alt="Desenvolvedor Full Stack" src="https://img.shields.io/badge/💡%20Desenvolvedor%20Full%20Stack-F0D81E?style=for-the-badge&labelColor=0D1117" />
-  <img alt="Apaixonado por tecnologia e inovação" src="https://img.shields.io/badge/🧠%20Apaixonado%20por%20tecnologia%20e%20inovação-29a825?style=for-the-badge&labelColor=0D1117" />
+  <img alt="Engenheiro de Software" src="https://img.shields.io/badge/%20Engenheiro%20de%20Software-007ACC?style=for-the-badge&labelColor=0D1117" />
+  <img alt="Desenvolvedor Full Stack" src="https://img.shields.io/badge/%20Desenvolvedor%20Full%20Stack-F0D81E?style=for-the-badge&labelColor=0D1117" />
+  <img alt="Apaixonado por tecnologia e inovação" src="https://img.shields.io/badge/%20Apaixonado%20por%20tecnologia%20e%20inovação-29a825?style=for-the-badge&labelColor=0D1117" />
 </p>
 
 
@@ -14,21 +14,21 @@
 
 ---
 
-## 🧩 Sobre mim
+## Sobre mim
 
 Sou um **Engenheiro de Software** apaixonado por desenvolvimento web e boas práticas de código.  
 Crio soluções escaláveis e performáticas com foco em **qualidade, arquitetura limpa e automação**.
 
-- 🔭 Atualmente trabalhando com **Node.js, React, TypeScript e Docker**  
-- 🧪 Experiência com **Testes Automatizados (Jest)**  
-- ☁️ Conhecimento em **Deploy e CI/CD**  
-- ⚡ Buscando constante evolução e aprendizado contínuo  
+- Atualmente trabalhando com **Node.js, React, TypeScript e Docker**  
+- Experiência com **Testes Automatizados (Jest)**  
+- Conhecimento em **Deploy e CI/CD**  
+- Buscando constante evolução e aprendizado contínuo  
 
 ---
 
-## 💻 Tech Stack
+## Tech Stack
 
-### 🖥️ Front-end
+### Front-end
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -37,26 +37,26 @@ Crio soluções escaláveis e performáticas com foco em **qualidade, arquitetur
 ![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
 ![Context API](https://img.shields.io/badge/Context%20API-000000?style=for-the-badge&logo=react&logoColor=61dafb)
 
-### ⚙️ Back-end
+### Back-end
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
 ![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
 
-### 🗄️ Bancos de Dados
+### Bancos de Dados
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
-### 🛠️ Ferramentas & Versionamento
+### Ferramentas & Versionamento
 ![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
 
-## 📊 Estatísticas do GitHub
+## Estatísticas do GitHub
 
 <div align="center">
 
@@ -68,7 +68,7 @@ Crio soluções escaláveis e performáticas com foco em **qualidade, arquitetur
 
 ---
 
-## 🌐 Contato & Redes
+## Contato & Redes
 
 <p align="center">
   <a href="https://www.linkedin.com/in/roberto-wolowitz/" target="_blank">
