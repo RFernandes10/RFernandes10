@@ -60,9 +60,9 @@ Crio soluções escaláveis e performáticas com foco em **qualidade, arquitetur
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RFernandes10&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RFernandes10&layout=compact&theme=tokyonight&hide_border=true&border_radius=15)
+![GitHub Stats](https://github-readme-stats-git-masterorg.vercel.app/api?username=RFernandes10&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15&cache_seconds=1800)
 
+![Top Langs](https://github-readme-stats-git-masterorg.vercel.app/api/top-langs/?username=RFernandes10&layout=compact&theme=tokyonight&hide_border=true&border_radius=15&cache_seconds=1800)
 
 </div>
 
