@@ -10,19 +10,18 @@
 </p>
 
 
-
-
 ---
 
 ## Sobre mim
 
 Sou um **Engenheiro de Software** apaixonado por desenvolvimento web e boas práticas de código.  
-Crio soluções escaláveis e performáticas com foco em **qualidade, arquitetura limpa e automação**.
+Crio soluções escaláveis e performáticas com foco em **qualidade, arquitetura limpa, automação e produtividade**.
 
 - Atualmente trabalhando com **Node.js, React, TypeScript e Docker**  
+- Utilizo ferramentas de inteligência artificial, como **GitHub Copilot**, modelos baseados em **ChatGPT** e **Gemini**, para acelerar o desenvolvimento e melhorar a qualidade do código  
 - Experiência com **Testes Automatizados (Jest)**  
 - Conhecimento em **Deploy e CI/CD**  
-- Buscando constante evolução e aprendizado contínuo  
+- Buscando constante evolução e aprendizado contínuo
 
 ---
 
@@ -49,10 +48,10 @@ Crio soluções escaláveis e performáticas com foco em **qualidade, arquitetur
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
-### Ferramentas & Versionamento
-![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+### Ferramentas & Versionamento  
+![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
+
 
 ---
 
