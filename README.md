@@ -51,17 +51,16 @@ Crio soluções escaláveis e performáticas com foco em **qualidade, arquitetur
 ### Ferramentas & Versionamento  
 ![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
-
-
 ---
 
 ## Estatísticas do GitHub
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats-git-masterorg.vercel.app/api?username=RFernandes10&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15&cache_seconds=1800)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RFernandes10&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15&cache_seconds=1800)
 
-![Top Langs](https://github-readme-stats-git-masterorg.vercel.app/api/top-langs/?username=RFernandes10&layout=compact&theme=tokyonight&hide_border=true&border_radius=15&cache_seconds=1800)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RFernandes10&layout=compact&theme=tokyonight&hide_border=true&border_radius=15&cache_seconds=1800)
+
 
 </div>
 
