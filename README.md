@@ -61,7 +61,6 @@ Crio soluções escaláveis e performáticas com foco em **qualidade, arquitetur
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RFernandes10&layout=compact&theme=tokyonight&hide_border=true&border_radius=15&cache_seconds=1800)
 
-
 </div>
 
 ---
