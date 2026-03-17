@@ -30,6 +30,12 @@ Tenho direcionado meus projetos para cenários reais de empresas, criando soluç
 ## 🚀 Projetos com Impacto Real
 
 ### 💼 Business Manager SaaS *(em desenvolvimento)*
+🔗 [Repositório](#) · [Demo ao vivo](#)
+
+<!-- Substitua pela URL da imagem/GIF do projeto -->
+<p align="center">
+  <img src="https://via.placeholder.com/800x400?text=Business+Manager+SaaS+-+Em+breve" alt="Business Manager SaaS Preview" width="100%" />
+</p>
 
 **Público:** Pequenos negócios (barbearias, autônomos, serviços locais)
 
@@ -48,6 +54,12 @@ Tenho direcionado meus projetos para cenários reais de empresas, criando soluç
 ---
 
 ### 🏥 Sistema de Agendamento (Clínicas)
+🔗 [Repositório](#) · [Demo ao vivo](#)
+
+<!-- Substitua pela URL da imagem/GIF do projeto -->
+<p align="center">
+  <img src="https://via.placeholder.com/800x400?text=Sistema+de+Agendamento+-+Em+breve" alt="Sistema de Agendamento Preview" width="100%" />
+</p>
 
 **Problema:** Desorganização de agenda e perda de atendimentos
 
@@ -59,6 +71,12 @@ Tenho direcionado meus projetos para cenários reais de empresas, criando soluç
 ---
 
 ### 📦 Controle de Estoque Inteligente
+🔗 [Repositório](#) · [Demo ao vivo](#)
+
+<!-- Substitua pela URL da imagem/GIF do projeto -->
+<p align="center">
+  <img src="https://via.placeholder.com/800x400?text=Controle+de+Estoque+-+Em+breve" alt="Controle de Estoque Preview" width="100%" />
+</p>
 
 **Problema:** Falta de controle gera prejuízo
 
@@ -70,6 +88,12 @@ Tenho direcionado meus projetos para cenários reais de empresas, criando soluç
 ---
 
 ### 🧾 Gerador de Orçamentos
+🔗 [Repositório](#) · [Demo ao vivo](#)
+
+<!-- Substitua pela URL da imagem/GIF do projeto -->
+<p align="center">
+  <img src="https://via.placeholder.com/800x400?text=Gerador+de+Orçamentos+-+Em+breve" alt="Gerador de Orçamentos Preview" width="100%" />
+</p>
 
 **Problema:** Orçamentos informais e desorganizados
 
