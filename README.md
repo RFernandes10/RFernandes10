@@ -1,84 +1,72 @@
-# README
-
-<!-- Banner animado -->
-
+<!-- Banner profissional -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Ol%C3%A1%2C+eu+sou+Roberto+Fernandes;Engenheiro+de+Software;Desenvolvedor+Full+Stack;Apaixonado+por+tecnologia+%F0%9F%92%BB" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Roberto+Fernandes;Software+Engineer;Full-Stack+Developer;Ol%C3%A1%2C+Eu+Sou+Roberto+Fernandes;Engenheiro+de+Software;Desenvolvedor+Full-Stack" alt="Typing SVG" />
 </h1>
 
 <p align="center">
-  <img alt="Engenheiro de Software" src="https://img.shields.io/badge/%20Engenheiro%20de%20Software-007ACC?style=for-the-badge&labelColor=0D1117" />
-  <img alt="Desenvolvedor Full Stack" src="https://img.shields.io/badge/%20Desenvolvedor%20Full%20Stack-F0D81E?style=for-the-badge&labelColor=0D1117" />
-  <img alt="Apaixonado por tecnologia e inovação" src="https://img.shields.io/badge/%20Apaixonado%20por%20tecnologia%20e%20inova%C3%A7%C3%A3o-29a825?style=for-the-badge&labelColor=0D1117" />
+  <img alt="Full-Stack Developer" src="https://img.shields.io/badge/Full-Stack%20Developer-007ACC?style=for-the-badge&logoColor=white&labelColor=0D1117" />
+  <img alt="Node.js React TypeScript" src="https://img.shields.io/badge/Node.js%20React%20TypeScript-00D8FF?style=for-the-badge&logoColor=white&labelColor=0D1117" />
+  <a href="https://www.linkedin.com/in/roberto-wolowitz/"><img alt="Open+to+Work" src="https://img.shields.io/badge/Open%20to%20Work-29A825?style=for-the-badge&logoColor=white&labelColor=0D1117" /></a>
 </p>
 
 ---
 
-## Sobre mim
+## 👨‍💻 Sobre / About
+**Engenheiro de Software Full-Stack** baseado no Rio de Janeiro, Brasil. Especialista em soluções escaláveis com **Node.js, React, Next.js, Prisma & PostgreSQL**. 
 
-Sou um **Engenheiro de Software** apaixonado por desenvolvimento web e boas práticas de código. Crio soluções escaláveis e performáticas com foco em **qualidade, arquitetura limpa, automação e produtividade**.
+**Software Engineer** from Rio de Janeiro, Brazil. Full-stack specialist building scalable solutions with **Node.js, React, Next.js, Prisma & PostgreSQL**.
 
-* Atualmente trabalhando com **Node.js, React, TypeScript**
-* Utilizo ferramentas de IA como **GitHub Copilot**, **ChatGPT** e **Gemini** para acelerar o desenvolvimento
-* Experiência com **testes automatizados (Jest)**
-* Conhecimento em **CI/CD e deploy automatizado**
-* Sempre buscando evolução contínua
-
----
-
-## Tech Stack
-
-### Front-end
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge\&logo=typescript\&logoColor=white)
-![React](https://img.shields.io/badge/React-20232a?style=for-the-badge\&logo=react\&logoColor=61dafb)
-![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge\&logo=redux\&logoColor=white)
-![Context API](https://img.shields.io/badge/Context%20API-000000?style=for-the-badge\&logo=react\&logoColor=61dafb)
-
-### Back-end
-
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge\&logo=node.js\&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge\&logo=prisma\&logoColor=white)
-![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge\&logo=jest\&logoColor=white)
-
-### Bancos de Dados
-
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge\&logo=mysql\&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge\&logo=postgresql\&logoColor=white)
-
-### Ferramentas e Versionamento
-
-![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge\&logo=visual-studio-code\&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge\&logo=figma\&logoColor=white)
+- 🚀 Projetos reais: Sistema de agendamento para barbearias + Emulador web RetroWeb (SNES/Mega Drive)
+- 💻 Stack: TypeScript, Express, Jest, TailwindCSS, CI/CD
+- 🤖 Uso IA (Copilot, Grok) para 2x produtividade
+- 🌎 Aberto a oportunidades remotas | Portugal/Europa
 
 ---
 
-## Estatísticas do GitHub
+## 🔥 Projetos Destaque / Featured Projects
 
+| Projeto | Descrição | Tech Stack | 
+|---------|-----------|------------|
+| **[barbearia_scheduler](https://github.com/RFernandes10/barbearia_scheduler)** ![Stars](https://img.shields.io/github/stars/RFernandes10/barbearia_scheduler?style=social) | Sistema completo de agendamento para barbearias com dashboard admin, relatórios de vendas e calendário visual | **Node.js + Prisma + PostgreSQL + React** |
+| **[RetroWeb](https://github.com/RFernandes10/RetroWeb)** | Emulador web para jogos retro (SNES, Mega Drive). Projeto pessoal com meu filho | **Next.js + Emulação Web + Tailwind** |
+| **[AnimeList](https://github.com/RFernandes10/AnimeList)** | App React para busca e tracking de animes | **React + Redux + Context API** |
+
+[![barbearia-scheduler-demo](https://via.placeholder.com/800x400/0D1117/FFFFFF?text=Dashboard+Barbearia+Scheduler)](https://github.com/RFernandes10/barbearia_scheduler)
+
+---
+
+## 🛠️ Tech Stack
+
+Front-end: React · Next.js · TypeScript · Redux · TailwindCSS · Context API
+Back-end: Node.js · Express · Prisma · Jest
+Database: PostgreSQL · MySQL
+Tools: Git · GitHub Actions · Docker · VS Code · Figma
+
+
+---
+
+## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats-one-bice.vercel.app/api?username=RFernandes10&show_icons=true&theme=dark" alt="GitHub Stats" />
-  <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs?username=RFernandes10&layout=compact&theme=dark" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=RFernandes10&show_icons=true&theme=radical&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RFernandes10&layout=compact&theme=radical&hide_border=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RFernandes10&theme=radical&hide_border=true" width="100%" />
 </p>
 
-
 ---
 
-## Contato e Redes
-
+## 📫 Conecte-se / Let's Connect
 <p align="center">
-  <a href="https://www.linkedin.com/in/roberto-wolowitz/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="https://www.linkedin.com/in/roberto-wolowitz/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:robertofernandes144@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://github.com/RFernandes10" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  <a href="https://wa.me/55SEUNUMERO">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
+</p>
+
+<p align="center">
+  <em>💼 Aberto a novas oportunidades | Open to new opportunities</em>
 </p>
