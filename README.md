@@ -1,4 +1,17 @@
-<h1 align="center">Roberto Fernandes</h1>
+<h1 align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=250&section=header&text=Roberto%20Fernandes&fontSize=45&fontAlignY=40&animation=fadeIn&desc=Fullstack%20Developer%20%7C%20Node.js%20%7C%20React%20%7C%20PostgreSQL&descAlignY=60&descSize=18"/>
+</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?color=00C9FF&size=25&center=true&vCenter=true&width=600&lines=Construindo+Soluções+Escaláveis;Clean+Architecture+%7C+SOLID;Apaixonado+por+Tecnologia"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Code-TypeScript-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Backend-Node.js-green?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Frontend-React-61DAFB?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Database-PostgreSQL-336791?style=for-the-badge"/>
+</p>
 
 <p align="center">
   <strong>Software Engineer | Full-Stack Developer</strong><br/>
@@ -12,12 +25,12 @@
 </p>
 
 <p align="center">
-  💼 <strong>Open to Work</strong> — Remoto | Brasil | Portugal/Europa
+   <strong>Open to Work</strong> — Remoto | Brasil | Portugal/Europa
 </p>
 
 ---
 
-## 👨‍💻 Sobre mim
+##  Sobre mim
 
 Sou **Engenheiro de Software Full-Stack** focado em construir sistemas que resolvem problemas reais de negócio.
 
@@ -27,9 +40,9 @@ Tenho direcionado meus projetos para cenários reais de empresas, criando soluç
 
 ---
 
-## 🚀 Projetos com Impacto Real
+##  Projetos com Impacto Real
 
-### 💼 Business Manager SaaS *(em desenvolvimento)*
+###  Business Manager SaaS *(em desenvolvimento)*
 🔗 [Repositório](#) · [Demo ao vivo](#)
 
 <!-- Substitua pela URL da imagem/GIF do projeto -->
@@ -42,10 +55,10 @@ Tenho direcionado meus projetos para cenários reais de empresas, criando soluç
 **Problema:** Falta de organização, controle financeiro e gestão centralizada
 
 **Solução:**
-- 📅 Agendamentos
-- 👥 Gestão de clientes
-- 💰 Controle financeiro
-- 📊 Dashboard
+-  Agendamentos
+-  Gestão de clientes
+-  Controle financeiro
+-  Dashboard
 
 **Diferencial:** Arquitetura **multi-tenant (SaaS)**
 
@@ -53,7 +66,7 @@ Tenho direcionado meus projetos para cenários reais de empresas, criando soluç
 
 ---
 
-### 🏥 Sistema de Agendamento (Clínicas)
+###  Sistema de Agendamento (Clínicas)
 🔗 [Repositório](#) · [Demo ao vivo](#)
 
 <!-- Substitua pela URL da imagem/GIF do projeto -->
@@ -70,7 +83,7 @@ Tenho direcionado meus projetos para cenários reais de empresas, criando soluç
 
 ---
 
-### 📦 Controle de Estoque Inteligente
+###  Controle de Estoque Inteligente
 🔗 [Repositório](#) · [Demo ao vivo](#)
 
 <!-- Substitua pela URL da imagem/GIF do projeto -->
@@ -87,7 +100,7 @@ Tenho direcionado meus projetos para cenários reais de empresas, criando soluç
 
 ---
 
-### 🧾 Gerador de Orçamentos
+###  Gerador de Orçamentos
 🔗 [Repositório](#) · [Demo ao vivo](#)
 
 <!-- Substitua pela URL da imagem/GIF do projeto -->
@@ -104,7 +117,7 @@ Tenho direcionado meus projetos para cenários reais de empresas, criando soluç
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 ```mermaid
 graph TB
     A[Frontend] --> B(React)
@@ -138,7 +151,7 @@ graph TB
 
 ---
 
-## 📊 Estatísticas
+##  Estatísticas
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=RFernandes10&show_icons=true&theme=dracula&hide_border=true" width="48%" />
@@ -149,17 +162,17 @@ graph TB
 
 ---
 
-## 🎯 Diferenciais
+##  Diferenciais
 
-- 💻 Desenvolvimento Full-Stack end-to-end
-- 🚀 Foco em problemas reais de negócio
-- ⚡ Alta produtividade com uso de IA
-- 📈 Arquitetura escalável (SaaS)
-- 🌍 Preparado para atuação internacional
+-  Desenvolvimento Full-Stack end-to-end
+-  Foco em problemas reais de negócio
+-  Alta produtividade com uso de IA
+-  Arquitetura escalável (SaaS)
+-  Preparado para atuação internacional
 
 ---
 
-## 📫 Contato
+##  Contato
 
 <p align="center">
   <a href="https://www.linkedin.com/in/roberto-wolowitz/">
@@ -174,6 +187,6 @@ graph TB
 </p>
 
 <div align="center">
-  <h3>💼 Open to Work | Remoto Brasil / Europa</h3>
+  <h3> Open to Work | Remoto Brasil / Europa</h3>
   <em>Construindo soluções com impacto real 🚀</em>
 </div>
