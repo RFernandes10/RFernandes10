@@ -1,17 +1,14 @@
-<!-- ================= HEADER ================= -->
 <h1 align="center">Roberto Fernandes</h1>
 
 <p align="center">
   <strong>Software Engineer | Full-Stack Developer</strong><br/>
-  Construindo soluções que resolvem problemas reais de empresas e pessoas
+  Construindo soluções escaláveis que resolvem problemas reais
 </p>
 
 <p align="center">
-  <img alt="Full-Stack Developer" src="https://img.shields.io/badge/Full-Stack%20Developer-007ACC?style=for-the-badge&logoColor=white&labelColor=0D1117" />
-  <img alt="Node.js React TypeScript" src="https://img.shields.io/badge/Node.js%20React%20React-00D8FF?style=for-the-badge&logoColor=white&labelColor=0D1117" />
-  <a href="https://www.linkedin.com/in/roberto-wolowitz/">
-    <img alt="Open to Work" src="https://img.shields.io/badge/Open%20to%20Work-29A825?style=for-the-badge&logoColor=white&labelColor=0D1117" />
-  </a>
+  <img alt="Full-Stack Developer" src="https://img.shields.io/badge/Full-Stack-6366F1?style=for-the-badge&labelColor=0F172A" />
+  <img alt="Node.js React TypeScript" src="https://img.shields.io/badge/Node.js%20React%20TS-10B981?style=for-the-badge&labelColor=0F172A" />
+  <img alt="SaaS Architecture" src="https://img.shields.io/badge/SaaS%20Architecture-3B82F6?style=for-the-badge&labelColor=0F172A" />
 </p>
 
 <p align="center">
@@ -24,146 +21,110 @@
 
 Sou **Engenheiro de Software Full-Stack** focado em construir sistemas que resolvem problemas reais de negócio.
 
-Trabalho com **Node.js, React e TypeScript**, desenvolvendo aplicações completas com foco em **escalabilidade, organização e impacto prático**.  
-Tenho direcionado meus projetos para cenários reais de empresas e usuários, buscando sempre gerar valor concreto.
+Atuo com **Node.js, React e TypeScript**, desenvolvendo aplicações completas com foco em **arquitetura, escalabilidade e impacto prático**.
 
----
-
-## ⚡ Principais Competências
-
-- Desenvolvimento Full-Stack (Node.js + React)
-- Arquitetura de APIs REST escaláveis
-- Modelagem de banco de dados (PostgreSQL)
-- Estruturação de sistemas SaaS
-- Clean Code e boas práticas de engenharia
-- Uso de IA para aumento de produtividade
+Tenho direcionado meus projetos para cenários reais de empresas, criando soluções que podem evoluir para produtos (SaaS), sempre priorizando organização, performance e clareza de código.
 
 ---
 
 ## 🚀 Projetos com Impacto Real
 
 ### 💼 Business Manager SaaS *(em desenvolvimento)*
-🔗 [Adicionar link]
 
-**Público:** Pequenos negócios (barbearias, autônomos, serviços locais)  
+**Público:** Pequenos negócios (barbearias, autônomos, serviços locais)
 
-**Problema:**  
-Empresas pequenas ainda operam com papel, WhatsApp e falta de controle financeiro.
+**Problema:** Falta de organização, controle financeiro e gestão centralizada
 
-**Solução:**  
-Sistema completo de gestão com:
-- 📅 Agendamentos  
-- 👥 Gestão de clientes  
-- 💰 Controle financeiro  
-- 📊 Dashboard  
+**Solução:**
+- 📅 Agendamentos
+- 👥 Gestão de clientes
+- 💰 Controle financeiro
+- 📊 Dashboard
 
-**Diferencial:**  
-Arquitetura SaaS multi-tenant (várias empresas na mesma plataforma)
+**Diferencial:** Arquitetura **multi-tenant (SaaS)**
 
-**Stack:**  
-Node.js · React · PostgreSQL · Prisma · JWT  
+**Stack:** Node.js · React · PostgreSQL · Prisma · JWT
 
 ---
 
-### 🏥 Sistema de Agendamento para Clínicas *(evolução do projeto atual)*
-🔗 [Adicionar link]
+### 🏥 Sistema de Agendamento (Clínicas)
 
-**Público:** Clínicas, dentistas e profissionais de saúde  
+**Problema:** Desorganização de agenda e perda de atendimentos
 
-**Problema:**  
-Desorganização de agenda e perda de consultas  
-
-**Solução:**  
-- Controle de horários  
-- Gestão de pacientes  
-- Painel administrativo  
-
-**Diferencial:**  
-Escalável para múltiplas clínicas (multi-tenant)
+**Solução:**
+- Gestão de horários
+- Controle de pacientes
+- Relatórios operacionais
 
 ---
 
 ### 📦 Controle de Estoque Inteligente
-🔗 [Adicionar link]
 
-**Público:** Pequenos comércios  
+**Problema:** Falta de controle gera prejuízo
 
-**Problema:**  
-Falta de controle de estoque gera prejuízo financeiro  
-
-**Solução:**  
-- Controle de produtos  
-- Alertas de reposição  
-- Histórico de movimentação  
+**Solução:**
+- Controle de produtos
+- Alertas de reposição
+- Histórico de movimentação
 
 ---
 
-### 🧾 Gerador de Orçamentos Profissionais
-🔗 [Adicionar link]
+### 🧾 Gerador de Orçamentos
 
-**Público:** Freelancers e prestadores de serviço  
+**Problema:** Orçamentos informais e desorganizados
 
-**Problema:**  
-Orçamentos informais e falta de padronização  
-
-**Solução:**  
-- Geração de orçamentos em PDF  
-- Cadastro de clientes  
-- Histórico de serviços  
-
----
-
-### 🎓 Plataforma para Projetos Sociais
-🔗 [Adicionar link]
-
-**Público:** ONGs e projetos comunitários  
-
-**Problema:**  
-Falta de controle de participantes e evolução  
-
-**Solução:**  
-- Cadastro de alunos  
-- Controle de presença  
-- Acompanhamento de evolução  
-
-**Impacto:**  
-Organização e melhoria na gestão de projetos sociais
+**Solução:**
+- Geração de PDF
+- Cadastro de clientes
+- Histórico de serviços
 
 ---
 
 ## 🛠️ Tech Stack
+```mermaid
+graph TB
+    A[Frontend] --> B(React)
+    A --> C(Next.js)
+    A --> D(TypeScript)
+    A --> E(TailwindCSS)
 
-**Frontend**  
-React · Next.js · TypeScript · TailwindCSS  
+    F[Backend] --> G(Node.js)
+    F --> H(Express)
+    F --> I(Prisma)
 
-**Backend**  
-Node.js · Express · Prisma  
+    J[Database] --> K(PostgreSQL)
+    J --> L(MySQL)
 
-**Banco de Dados**  
-PostgreSQL · MySQL  
+    M[Tools] --> N(GitHub Actions)
+    M --> O(Docker)
+    M --> P(CI/CD)
 
-**Ferramentas**  
-Git · GitHub Actions · Docker · VS Code  
-
-**Metodologias**  
-Clean Code · Arquitetura Modular · CI/CD  
+    style A fill:#10B981
+    style F fill:#3B82F6
+    style J fill:#F59E0B
+    style M fill:#EC4899
+```
 
 ---
 
-## 📊 Métricas
+## 📊 Estatísticas
 
-- 🚀 Projetos focados em problemas reais de negócio  
-- 💻 Desenvolvimento full-stack end-to-end  
-- ⚡ Uso de IA para aumento de produtividade  
-- 📈 Foco em escalabilidade e impacto  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=RFernandes10&show_icons=true&theme=dracula&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RFernandes10&layout=compact&theme=dracula&hide_border=true" width="48%" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RFernandes10&theme=dracula&hide_border=true" width="100%" />
+</p>
 
 ---
 
-## 💼 Experiência
+## 🎯 Diferenciais
 
-- Desenvolvimento de sistemas completos (frontend + backend)  
-- Criação de soluções voltadas para empresas reais  
-- Evolução contínua em engenharia de software  
+- 💻 Desenvolvimento Full-Stack end-to-end
+- 🚀 Foco em problemas reais de negócio
+- ⚡ Alta produtividade com uso de IA
+- 📈 Arquitetura escalável (SaaS)
+- 🌍 Preparado para atuação internacional
 
 ---
 
@@ -176,9 +137,12 @@ Clean Code · Arquitetura Modular · CI/CD
   <a href="mailto:robertofernandes144@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
+  <a href="https://wa.me/55SEUNUMERO">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  </a>
 </p>
 
-<p align="center">
-  <strong>Vamos conversar?</strong><br/>
-  Aberto a oportunidades e projetos com impacto real.
-</p>
+<div align="center">
+  <h3>💼 Open to Work | Remoto Brasil / Europa</h3>
+  <em>Construindo soluções com impacto real 🚀</em>
+</div>
