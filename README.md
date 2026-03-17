@@ -18,7 +18,7 @@
 
 Sou um **Engenheiro de Software** apaixonado por desenvolvimento web e boas práticas de código. Crio soluções escaláveis e performáticas com foco em **qualidade, arquitetura limpa, automação e produtividade**.
 
-* Atualmente trabalhando com **Node.js, React, TypeScript e Docker**
+* Atualmente trabalhando com **Node.js, React, TypeScript**
 * Utilizo ferramentas de IA como **GitHub Copilot**, **ChatGPT** e **Gemini** para acelerar o desenvolvimento
 * Experiência com **testes automatizados (Jest)**
 * Conhecimento em **CI/CD e deploy automatizado**
@@ -42,7 +42,6 @@ Sou um **Engenheiro de Software** apaixonado por desenvolvimento web e boas prá
 
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge\&logo=node.js\&logoColor=white)
 ![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge\&logo=prisma\&logoColor=white)
 ![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge\&logo=jest\&logoColor=white)
 
@@ -50,7 +49,6 @@ Sou um **Engenheiro de Software** apaixonado por desenvolvimento web e boas prá
 
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge\&logo=mysql\&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge\&logo=postgresql\&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge\&logo=mongodb\&logoColor=white)
 
 ### Ferramentas e Versionamento
 
