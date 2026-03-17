@@ -86,23 +86,30 @@ graph TB
     A[Frontend] --> B(React)
     A --> C(Next.js)
     A --> D(TypeScript)
-    A --> E(TailwindCSS)
+    A --> E(JavaScript)
+    A --> F(HTML & CSS)
+    A --> G(TailwindCSS)
+    A --> H(Context API)
+    A --> I(Redux)
 
-    F[Backend] --> G(Node.js)
-    F --> H(Express)
-    F --> I(Prisma)
+    J[Backend] --> K(Node.js)
+    J --> L(Express)
+    J --> M(GraphQL)
+    J --> N(Prisma)
 
-    J[Database] --> K(PostgreSQL)
-    J --> L(MySQL)
+    O[Database] --> P(PostgreSQL)
+    O --> Q(MySQL)
+    O --> R(NoSQL)
 
-    M[Tools] --> N(GitHub Actions)
-    M --> O(Docker)
-    M --> P(CI/CD)
+    S[Tools & DevOps] --> T(Git / GitHub)
+    S --> U(Docker)
+    S --> V(CI/CD & Deploy)
+    S --> W(Jest)
 
     style A fill:#10B981
-    style F fill:#3B82F6
-    style J fill:#F59E0B
-    style M fill:#EC4899
+    style J fill:#3B82F6
+    style O fill:#F59E0B
+    style S fill:#EC4899
 ```
 
 ---
