@@ -3,12 +3,12 @@
 
 <p align="center">
   <strong>Software Engineer | Full-Stack Developer</strong><br/>
-  Construindo aplicações escaláveis, performáticas e orientadas a negócio
+  Construindo soluções que resolvem problemas reais de empresas e pessoas
 </p>
 
 <p align="center">
   <img alt="Full-Stack Developer" src="https://img.shields.io/badge/Full-Stack%20Developer-007ACC?style=for-the-badge&logoColor=white&labelColor=0D1117" />
-  <img alt="Node.js React TypeScript" src="https://img.shields.io/badge/Node.js%20React%20TypeScript-00D8FF?style=for-the-badge&logoColor=white&labelColor=0D1117" />
+  <img alt="Node.js React TypeScript" src="https://img.shields.io/badge/Node.js%20React%20React-00D8FF?style=for-the-badge&logoColor=white&labelColor=0D1117" />
   <a href="https://www.linkedin.com/in/roberto-wolowitz/">
     <img alt="Open to Work" src="https://img.shields.io/badge/Open%20to%20Work-29A825?style=for-the-badge&logoColor=white&labelColor=0D1117" />
   </a>
@@ -20,97 +20,121 @@
 
 ---
 
-## 👨‍💻 About
+## 👨‍💻 Sobre mim
 
-Sou **Engenheiro de Software Full-Stack** com foco em desenvolvimento de aplicações modernas, escaláveis e orientadas a resultados. Trabalho com **TypeScript, Node.js e React**, construindo soluções completas do backend ao frontend.
+Sou **Engenheiro de Software Full-Stack** focado em construir sistemas que resolvem problemas reais de negócio.
 
-Tenho experiência prática no desenvolvimento de sistemas reais, com foco em performance, organização de código e resolução de problemas de negócio. Utilizo **Inteligência Artificial no fluxo de desenvolvimento**, aumentando significativamente produtividade e qualidade das entregas.
+Trabalho com **Node.js, React e TypeScript**, desenvolvendo aplicações completas com foco em **escalabilidade, organização e impacto prático**.  
+Tenho direcionado meus projetos para cenários reais de empresas e usuários, buscando sempre gerar valor concreto.
 
 ---
 
-## ⚡ Skills
+## ⚡ Principais Competências
 
-- Desenvolvimento Full-Stack (Frontend + Backend)
-- Arquitetura de APIs REST
-- Modelagem de banco de dados relacional
-- Integração com APIs externas
-- Clean Code e boas práticas
+- Desenvolvimento Full-Stack (Node.js + React)
+- Arquitetura de APIs REST escaláveis
+- Modelagem de banco de dados (PostgreSQL)
+- Estruturação de sistemas SaaS
+- Clean Code e boas práticas de engenharia
 - Uso de IA para aumento de produtividade
 
 ---
 
-## 🚀 Highlights
+## 🚀 Projetos com Impacto Real
 
-- 📅 Desenvolvimento de sistema completo de agendamento com dashboard e relatórios
-- ⚡ Ganho de produtividade de até **2x** com uso de IA no desenvolvimento
-- 🎮 Criação de plataforma web de emulação de jogos (projeto técnico avançado)
-- 💡 Forte foco em resolução de problemas reais
-- 🌍 Preparação para atuação internacional (Portugal/Europa)
+### 💼 Business Manager SaaS *(em desenvolvimento)*
+🔗 [Adicionar link]
 
----
-
-## 🔥 Projects
-
-### 📌 Barbearia Scheduler
-🔗 https://github.com/RFernandes10/barbearia_scheduler
-
-Sistema completo de gestão e agendamento para barbearias.
+**Público:** Pequenos negócios (barbearias, autônomos, serviços locais)  
 
 **Problema:**  
-Falta de controle de agenda e gestão manual de clientes.
+Empresas pequenas ainda operam com papel, WhatsApp e falta de controle financeiro.
 
 **Solução:**  
-Plataforma digital com:
-- Agendamento de horários
-- Dashboard administrativo
-- Relatórios de vendas
+Sistema completo de gestão com:
+- 📅 Agendamentos  
+- 👥 Gestão de clientes  
+- 💰 Controle financeiro  
+- 📊 Dashboard  
+
+**Diferencial:**  
+Arquitetura SaaS multi-tenant (várias empresas na mesma plataforma)
 
 **Stack:**  
-Node.js · Prisma · PostgreSQL · React
+Node.js · React · PostgreSQL · Prisma · JWT  
 
 ---
 
-### 🎮 RetroWeb
-🔗 https://github.com/RFernandes10/RetroWeb
+### 🏥 Sistema de Agendamento para Clínicas *(evolução do projeto atual)*
+🔗 [Adicionar link]
 
-Plataforma web para emulação de jogos retro diretamente no navegador.
+**Público:** Clínicas, dentistas e profissionais de saúde  
 
-**Diferencial:**
-- Execução de jogos via browser
-- Foco em performance e experiência do usuário
+**Problema:**  
+Desorganização de agenda e perda de consultas  
 
-**Stack:**  
-Next.js · Web Emulation · TailwindCSS
+**Solução:**  
+- Controle de horários  
+- Gestão de pacientes  
+- Painel administrativo  
 
----
-
-### 📺 AnimeList
-🔗 https://github.com/RFernandes10/AnimeList
-
-Aplicação para busca e gerenciamento de animes.
-
-**Funcionalidades:**
-- Integração com API externa
-- Gerenciamento de estado global
-- Interface interativa
-
-**Stack:**  
-React · Redux · Context API
+**Diferencial:**  
+Escalável para múltiplas clínicas (multi-tenant)
 
 ---
 
-<!-- Placeholder para novos projetos -->
-### 🚧 Novo Projeto (em construção)
-🔗 [Adicionar link aqui]
+### 📦 Controle de Estoque Inteligente
+🔗 [Adicionar link]
 
-Descrição breve do problema e solução.
+**Público:** Pequenos comércios  
+
+**Problema:**  
+Falta de controle de estoque gera prejuízo financeiro  
+
+**Solução:**  
+- Controle de produtos  
+- Alertas de reposição  
+- Histórico de movimentação  
+
+---
+
+### 🧾 Gerador de Orçamentos Profissionais
+🔗 [Adicionar link]
+
+**Público:** Freelancers e prestadores de serviço  
+
+**Problema:**  
+Orçamentos informais e falta de padronização  
+
+**Solução:**  
+- Geração de orçamentos em PDF  
+- Cadastro de clientes  
+- Histórico de serviços  
+
+---
+
+### 🎓 Plataforma para Projetos Sociais
+🔗 [Adicionar link]
+
+**Público:** ONGs e projetos comunitários  
+
+**Problema:**  
+Falta de controle de participantes e evolução  
+
+**Solução:**  
+- Cadastro de alunos  
+- Controle de presença  
+- Acompanhamento de evolução  
+
+**Impacto:**  
+Organização e melhoria na gestão de projetos sociais
 
 ---
 
 ## 🛠️ Tech Stack
 
 **Frontend**  
-React · Next.js · TypeScript · TailwindCSS · Redux  
+React · Next.js · TypeScript · TailwindCSS  
 
 **Backend**  
 Node.js · Express · Prisma  
@@ -119,33 +143,31 @@ Node.js · Express · Prisma
 PostgreSQL · MySQL  
 
 **Ferramentas**  
-Git · GitHub Actions · Docker · VS Code · Figma  
+Git · GitHub Actions · Docker · VS Code  
 
 **Metodologias**  
-Clean Code · MVC · Component-Based Architecture · CI/CD  
+Clean Code · Arquitetura Modular · CI/CD  
 
 ---
 
-## 📊 Metrics
+## 📊 Métricas
 
-- 🚀 +[X] projetos desenvolvidos  
-- 💻 +[X] horas de desenvolvimento prático  
-- ⚡ até 2x aumento de produtividade com IA  
-- 📈 foco em performance e escalabilidade  
+- 🚀 Projetos focados em problemas reais de negócio  
+- 💻 Desenvolvimento full-stack end-to-end  
+- ⚡ Uso de IA para aumento de produtividade  
+- 📈 Foco em escalabilidade e impacto  
 
 ---
 
-## 💼 Experience
+## 💼 Experiência
 
-- Desenvolvimento de projetos full-stack completos  
-- Criação de aplicações com foco em uso real  
+- Desenvolvimento de sistemas completos (frontend + backend)  
+- Criação de soluções voltadas para empresas reais  
 - Evolução contínua em engenharia de software  
 
-*(Adicione experiências profissionais formais aqui quando desejar)*
-
 ---
 
-## 📫 Contact
+## 📫 Contato
 
 <p align="center">
   <a href="https://www.linkedin.com/in/roberto-wolowitz/">
@@ -154,12 +176,9 @@ Clean Code · MVC · Component-Based Architecture · CI/CD
   <a href="mailto:robertofernandes144@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://wa.me/55SEUNUMERO">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-  </a>
 </p>
 
 <p align="center">
   <strong>Vamos conversar?</strong><br/>
-  Estou aberto a oportunidades, colaborações e projetos internacionais.
+  Aberto a oportunidades e projetos com impacto real.
 </p>
