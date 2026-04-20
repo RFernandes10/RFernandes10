@@ -1,6 +1,42 @@
-# 📦 RFernandes10 — README Pack
-> **4 repos · 1 document · ready to paste**
-> Developer-focused tone · Portuguese/English bilingual hints where appropriate · Placeholders clearly marked
+<h1 align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0E17,100:5B7B88&height=250&section=header&text=Roberto%20Fernandes&fontSize=45&fontAlignY=40&animation=fadeIn&fontColor=FFFFFF&desc=Fullstack%20Developer%20%7C%20Node.js%20%7C%20React%20%7C%20PostgreSQL&descAlignY=60&descSize=18&descColor=FFFFFF"/>
+</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?color=5B7B88&size=25&center=true&vCenter=true&width=600&lines=Construindo+Soluções+Escaláveis;Clean+Architecture+%7C+SOLID;Apaixonado+por+Tecnologia"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Code-TypeScript-5B7B88?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Backend-Node.js-1B8A6B?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Frontend-React-B22222?style=for-the-badge&logo=react&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Database-PostgreSQL-0A0E17?style=for-the-badge&logo=postgresql&logoColor=white"/>
+</p>
+
+<p align="center">
+  <strong>Software Engineer | Full-Stack Developer</strong><br/>
+  Construindo soluções escaláveis que resolvem problemas reais
+</p>
+
+<p align="center">
+  <img alt="Full-Stack Developer" src="https://img.shields.io/badge/Full--Stack-5B7B88?style=for-the-badge&labelColor=0A0E17&logo=git&logoColor=white" />
+  <img alt="Node.js React TypeScript" src="https://img.shields.io/badge/Node.js%20React%20TS-1B8A6B?style=for-the-badge&labelColor=0A0E17&logo=javascript&logoColor=white" />
+  <img alt="SaaS Architecture" src="https://img.shields.io/badge/SaaS%20Architecture-B22222?style=for-the-badge&labelColor=0A0E17&logo=docker&logoColor=white" />
+</p>
+
+<p align="center">
+   <strong>Open to Work</strong> — Remoto | Brasil | Portugal/Europa
+</p>
+
+---
+
+##  Sobre mim
+
+Sou **Engenheiro de Software Full-Stack** focado em construir sistemas que resolvem problemas reais de negócio.
+
+Atuo com **Node.js, React e TypeScript**, desenvolvendo aplicações completas com foco em **arquitetura, escalabilidade e impacto prático**.
+
+Tenho direcionado meus projetos para cenários reais de empresas, criando soluções que podem evoluir para produtos (SaaS), sempre priorizando organização, performance e clareza de código.
 
 ---
 
