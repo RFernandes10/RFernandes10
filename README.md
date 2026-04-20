@@ -42,7 +42,7 @@ Tenho direcionado meus projetos para cenários reais de empresas, criando soluç
 
 ##  Projetos com Impacto Real
 
-###  Business Manager SaaS *(em desenvolvimento)*
+###  Business Manager SaaS
 🔗 [Repositório](#) · [Demo ao vivo](#)
 
 <!-- Substitua pela URL da imagem/GIF do projeto -->
