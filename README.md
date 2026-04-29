@@ -84,17 +84,21 @@ Recentemente desenvolvi o [Escola Gestão](https://github.com/RFernandes10/escol
 ---
 
 ###  Card Apresentação React
-🔗 [Repositório](https://github.com/RFernandes10/card-apresentacao-react) · [Ver Projeto](#)
+🔗 [Repositório](https://github.com/RFernandes10/card-apresentacao-react) · [Demo ao vivo](https://rfernandes10.github.io/card-apresentacao-react/)
 
-**Descrição:** Cartão de perfil pessoal interativo e responsivo.
+<p align="center">
+  <img src="https://github.com/RFernandes10/card-apresentacao-react/raw/main/public/perfil.jpeg" alt="Card Apresentação Preview" width="400px" />
+</p>
+
+**Descrição:** Cartão de perfil pessoal interativo e responsivo com animações 3D.
 
 **Funcionalidades:**
--  Design moderno e minimalista
+-  Design moderno com efeito glassmorfismo
+-  Animação de virar em 3D
+-  Temas alternáveis (Claro, Escuro, Drácula)
 -  Totalmente responsivo
--  Animações suaves com CSS
--  Integração com redes sociais
 
-**Stack:** React · TypeScript · Tailwind CSS
+**Stack:** React · TypeScript · Tailwind CSS · Vite
 
 ---
 
