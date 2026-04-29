@@ -103,7 +103,11 @@ Recentemente desenvolvi o [Escola Gestão](https://github.com/RFernandes10/escol
 ---
 
 ###  GitHub Profile Explorer
-🔗 [Repositório](https://github.com/RFernandes10/GitHub_Profile_Explorer) · [Ver Projeto](#)
+🔗 [Repositório](https://github.com/RFernandes10/GitHub_Profile_Explorer) · [Demo ao vivo](https://rfernandes10.github.io/GitHub_Profile_Explorer/)
+
+<p align="center">
+  <img src="https://github.com/RFernandes10/GitHub_Profile_Explorer/raw/main/public/DevQuest.gif" alt="GitHub Profile Explorer Preview" width="100%" />
+</p>
 
 **Descrição:** Visualizador moderno de perfis do GitHub com informações completas.
 
@@ -113,22 +117,26 @@ Recentemente desenvolvi o [Escola Gestão](https://github.com/RFernandes10/escol
 -  Interface limpa e intuitiva
 -  Dados em tempo real via GitHub API
 
-**Stack:** React · TypeScript · GitHub API · CSS Modules
+**Stack:** HTML5 · CSS3 · JavaScript · GitHub API
 
 ---
 
 ###  Autoparts System - Controle de Estoque
 🔗 [Repositório](https://github.com/RFernandes10/autoparts-system) · [Demo ao vivo](#)
 
-**Descrição:** Sistema de gerenciamento de estoque para lojas de autopeças.
+<p align="center">
+  <img src="https://github.com/RFernandes10/autoparts-system/raw/main/frontend/public/Screenshot_2.png" alt="Autoparts System Preview" width="100%" />
+</p>
+
+**Descrição:** Sistema completo de gestão para lojas de autopeças com controle de estoque e vendas.
 
 **Funcionalidades:**
--  Cadastro de produtos automotivos
--  Controle de entrada e saída
--  Alertas de reposição de estoque
--  Relatórios de movimentação
+-  Cadastro de produtos (pneus, baterias, autopeças)
+-  Gestão de clientes e fornecedores
+-  Dashboard gerencial com estatísticas
+-  Registro de vendas com atualização automática
 
-**Stack:** React · Node.js · PostgreSQL · Express
+**Stack:** React · TypeScript · Node.js · PostgreSQL · Prisma
 
 ---
 
