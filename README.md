@@ -67,6 +67,10 @@ Recentemente desenvolvi o [Escola Gestão](https://github.com/RFernandes10/escol
 ###  Project Management Platform
 🔗 [Repositório](https://github.com/RFernandes10/project-management-platform) · [Demo ao vivo](#)
 
+<p align="center">
+  <img src="https://github.com/RFernandes10/project-management-platform/raw/main/docs/screenshots/kanban.png" alt="Project Management Platform Preview" width="100%" />
+</p>
+
 **Descrição:** Plataforma full-stack de gerenciamento de projetos com metodologia Kanban.
 
 **Funcionalidades:**
@@ -75,7 +79,7 @@ Recentemente desenvolvi o [Escola Gestão](https://github.com/RFernandes10/escol
 -  Sistema de etiquetas e filtros
 -  Relatórios de progresso em tempo real
 
-**Stack:** React · TypeScript · Node.js · PostgreSQL · Context API
+**Stack:** React · TypeScript · Node.js · PostgreSQL · Redux Toolkit
 
 ---
 
