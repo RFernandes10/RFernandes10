@@ -83,25 +83,6 @@ Recentemente desenvolvi o [Escola Gestão](https://github.com/RFernandes10/escol
 
 ---
 
-###  Card Apresentação React
-🔗 [Repositório](https://github.com/RFernandes10/card-apresentacao-react) · [Demo ao vivo](https://rfernandes10.github.io/card-apresentacao-react/)
-
-<p align="center">
-  <img src="https://github.com/RFernandes10/card-apresentacao-react/raw/main/public/perfil.jpeg" alt="Card Apresentação Preview" width="400px" />
-</p>
-
-**Descrição:** Cartão de perfil pessoal interativo e responsivo com animações 3D.
-
-**Funcionalidades:**
--  Design moderno com efeito glassmorfismo
--  Animação de virar em 3D
--  Temas alternáveis (Claro, Escuro, Drácula)
--  Totalmente responsivo
-
-**Stack:** React · TypeScript · Tailwind CSS · Vite
-
----
-
 ###  GitHub Profile Explorer
 🔗 [Repositório](https://github.com/RFernandes10/GitHub_Profile_Explorer) · [Demo ao vivo](https://rfernandes10.github.io/GitHub_Profile_Explorer/)
 
@@ -125,7 +106,7 @@ Recentemente desenvolvi o [Escola Gestão](https://github.com/RFernandes10/escol
 🔗 [Repositório](https://github.com/RFernandes10/autoparts-system) · [Demo ao vivo](#)
 
 <p align="center">
-  <img src="https://github.com/RFernandes10/autoparts-system/raw/main/frontend/public/Screenshot_2.png" alt="Autoparts System Preview" width="100%" />
+  <img src="https://github.com/RFernandes10/autoparts-system/raw/main/frontend/public/Screenshot_1.png" alt="Autoparts System Preview" width="100%" />
 </p>
 
 **Descrição:** Sistema completo de gestão para lojas de autopeças com controle de estoque e vendas.
@@ -139,6 +120,44 @@ Recentemente desenvolvi o [Escola Gestão](https://github.com/RFernandes10/escol
 **Stack:** React · TypeScript · Node.js · PostgreSQL · Prisma
 
 ---
+
+###  Project Management Platform
+🔗 [Repositório](https://github.com/RFernandes10/project-management-platform) · [Demo ao vivo](#)
+
+<p align="center">
+  <img src="https://github.com/RFernandes10/project-management-platform/raw/main/docs/screenshots/kanban.png" alt="Project Management Platform Preview" width="100%" />
+</p>
+
+**Descrição:** Plataforma full-stack de gerenciamento de projetos com metodologia Kanban.
+
+**Funcionalidades:**
+-  Quadros Kanban interativos com drag-and-drop
+-  Gerenciamento de tarefas e prazos
+-  Sistema de etiquetas e filtros
+-  Relatórios de progresso em tempo real
+
+**Stack:** React · TypeScript · Node.js · PostgreSQL · Redux Toolkit
+
+
+
+###  GitHub Profile Explorer
+🔗 [Repositório](https://github.com/RFernandes10/GitHub_Profile_Explorer) · [Demo ao vivo](https://rfernandes10.github.io/GitHub_Profile_Explorer/)
+
+<p align="center">
+  <img src="https://github.com/RFernandes10/GitHub_Profile_Explorer/raw/main/public/DevQuest.gif" alt="GitHub Profile Explorer Preview" width="100%" />
+</p>
+
+**Descrição:** Visualizador moderno de perfis do GitHub com informações completas.
+
+**Funcionalidades:**
+-  Busca de usuários do GitHub
+-  Exibição de repositórios, stars e seguidores
+-  Interface limpa e intuitiva
+-  Dados em tempo real via GitHub API
+
+**Stack:** HTML5 · CSS3 · JavaScript · GitHub API
+
+
 
 
 
