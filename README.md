@@ -64,24 +64,67 @@ Recentemente desenvolvi o [Escola Gestão](https://github.com/RFernandes10/escol
 
 ---
 
-###  Business Manager SaaS
-🔗 [Repositório](https://github.com/RFernandes10/Business-Manager-SaaS-) · [Demo ao vivo](#)
+###  Project Management Platform
+🔗 [Repositório](https://github.com/RFernandes10/project-management-platform) · [Demo ao vivo](#)
 
-**Público:** Pequenos negócios (barbearias, autônomos, serviços locais)
+**Descrição:** Plataforma full-stack de gerenciamento de projetos com metodologia Kanban.
 
-**Problema:** Falta de organização, controle financeiro e gestão centralizada
+**Funcionalidades:**
+-  Quadros Kanban interativos com drag-and-drop
+-  Gerenciamento de tarefas e prazos
+-  Sistema de etiquetas e filtros
+-  Relatórios de progresso em tempo real
 
-**Solução:**
--  Agendamentos
--  Gestão de clientes
--  Controle financeiro
--  Dashboard
-
-**Diferencial:** Arquitetura **multi-tenant (SaaS)**
-
-**Stack:** Node.js · React · PostgreSQL · Prisma · JWT
+**Stack:** React · TypeScript · Node.js · PostgreSQL · Context API
 
 ---
+
+###  Card Apresentação React
+🔗 [Repositório](https://github.com/RFernandes10/card-apresentacao-react) · [Ver Projeto](#)
+
+**Descrição:** Cartão de perfil pessoal interativo e responsivo.
+
+**Funcionalidades:**
+-  Design moderno e minimalista
+-  Totalmente responsivo
+-  Animações suaves com CSS
+-  Integração com redes sociais
+
+**Stack:** React · TypeScript · Tailwind CSS
+
+---
+
+###  GitHub Profile Explorer
+🔗 [Repositório](https://github.com/RFernandes10/GitHub_Profile_Explorer) · [Ver Projeto](#)
+
+**Descrição:** Visualizador moderno de perfis do GitHub com informações completas.
+
+**Funcionalidades:**
+-  Busca de usuários do GitHub
+-  Exibição de repositórios, stars e seguidores
+-  Interface limpa e intuitiva
+-  Dados em tempo real via GitHub API
+
+**Stack:** React · TypeScript · GitHub API · CSS Modules
+
+---
+
+###  Autoparts System - Controle de Estoque
+🔗 [Repositório](https://github.com/RFernandes10/autoparts-system) · [Demo ao vivo](#)
+
+**Descrição:** Sistema de gerenciamento de estoque para lojas de autopeças.
+
+**Funcionalidades:**
+-  Cadastro de produtos automotivos
+-  Controle de entrada e saída
+-  Alertas de reposição de estoque
+-  Relatórios de movimentação
+
+**Stack:** React · Node.js · PostgreSQL · Express
+
+---
+
+
 
 ###  Project Management Platform
 🔗 [Repositório](https://github.com/RFernandes10/project-management-platform) · [Demo ao vivo](#)
