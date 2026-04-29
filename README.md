@@ -38,17 +38,34 @@ Atuo com **Node.js, React e TypeScript**, desenvolvendo aplicações completas c
 
 Tenho direcionado meus projetos para cenários reais de empresas, criando soluções que podem evoluir para produtos (SaaS), sempre priorizando organização, performance e clareza de código.
 
+Recentemente desenvolvi o [Escola Gestão](https://github.com/RFernandes10/escola-gestao), um sistema de gestão escolar com integração de IA (Google Gemini) para relatórios executivos.
+
 ---
 
-##  Projetos com Impacto Real
+##  Projetos em Destaque
+
+###  Escola Gestão - Sistema de Gestão Escolar com IA
+🔗 [Repositório](https://github.com/RFernandes10/escola-gestao) · [Ver Projeto](#)
+
+<p align="center">
+  <img src="https://github.com/RFernandes10/escola-gestao/raw/main/images/gestao.png" alt="Escola Gestão Preview" width="100%" />
+</p>
+
+**Descrição:** Sistema completo de gestão escolar com foco em RH e integração de IA generativa.
+
+**Funcionalidades:**
+-  Gestão completa de funcionários (cadastro, edição, inativação)
+-  Relatórios executivos com Google Gemini AI
+-  Autenticação JWT com níveis de acesso (Diretor/Usuário)
+-  Exportação para Excel e PDF
+-  Interface moderna com tema escuro/claro
+
+**Stack:** Next.js 14 · Node.js · TypeScript · PostgreSQL · Prisma · Google Vertex AI
+
+---
 
 ###  Business Manager SaaS
-🔗 [Repositório](#) · [Demo ao vivo](#)
-
-<!-- Substitua pela URL da imagem/GIF do projeto -->
-<p align="center">
-  <img src="https://via.placeholder.com/800x400?text=Business+Manager+SaaS+-+Em+breve" alt="Business Manager SaaS Preview" width="100%" />
-</p>
+🔗 [Repositório](https://github.com/RFernandes10/Business-Manager-SaaS-) · [Demo ao vivo](#)
 
 **Público:** Pequenos negócios (barbearias, autônomos, serviços locais)
 
@@ -66,54 +83,37 @@ Tenho direcionado meus projetos para cenários reais de empresas, criando soluç
 
 ---
 
-###  Sistema de Agendamento (Clínicas)
-🔗 [Repositório](#) · [Demo ao vivo](#)
+###  Project Management Platform
+🔗 [Repositório](https://github.com/RFernandes10/project-management-platform) · [Demo ao vivo](#)
 
-<!-- Substitua pela URL da imagem/GIF do projeto -->
 <p align="center">
-  <img src="https://via.placeholder.com/800x400?text=Sistema+de+Agendamento+-+Em+breve" alt="Sistema de Agendamento Preview" width="100%" />
+  <img src="https://via.placeholder.com/800x400?text=Project+Management+Platform" alt="Project Management Platform" width="100%" />
 </p>
 
-**Problema:** Desorganização de agenda e perda de atendimentos
+**Descrição:** Plataforma full-stack de gerenciamento de projetos com metodologia Kanban.
 
-**Solução:**
-- Gestão de horários
-- Controle de pacientes
-- Relatórios operacionais
+**Funcionalidades:**
+-  Quadros Kanban interativos
+-  Gerenciamento de tarefas e prazos
+-  Colaboração em tempo real
+-  Relatórios de progresso
+
+**Stack:** React · TypeScript · Node.js · PostgreSQL
 
 ---
 
-###  Controle de Estoque Inteligente
-🔗 [Repositório](#) · [Demo ao vivo](#)
-
-<!-- Substitua pela URL da imagem/GIF do projeto -->
-<p align="center">
-  <img src="https://via.placeholder.com/800x400?text=Controle+de+Estoque+-+Em+breve" alt="Controle de Estoque Preview" width="100%" />
-</p>
+###  Autoparts System - Controle de Estoque
+🔗 [Repositório](https://github.com/RFernandes10/autoparts-system) · [Demo ao vivo](#)
 
 **Problema:** Falta de controle gera prejuízo
 
 **Solução:**
-- Controle de produtos
-- Alertas de reposição
-- Histórico de movimentação
+-  Controle de produtos automotivos
+-  Alertas de reposição
+-  Histórico de movimentação
+-  Relatórios de estoque
 
----
-
-###  Gerador de Orçamentos
-🔗 [Repositório](#) · [Demo ao vivo](#)
-
-<!-- Substitua pela URL da imagem/GIF do projeto -->
-<p align="center">
-  <img src="https://via.placeholder.com/800x400?text=Gerador+de+Orçamentos+-+Em+breve" alt="Gerador de Orçamentos Preview" width="100%" />
-</p>
-
-**Problema:** Orçamentos informais e desorganizados
-
-**Solução:**
-- Geração de PDF
-- Cadastro de clientes
-- Histórico de serviços
+**Stack:** React · Node.js · PostgreSQL
 
 ---
 
@@ -154,10 +154,10 @@ graph TB
 ##  Estatísticas
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RFernandes10&show_icons=true&theme=dracula&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RFernandes10&layout=compact&theme=dracula&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=RFernandes10&show_icons=true&theme=nightowl&hide_border=true&bg_color=0A0E17&title_color=5B7B88&icon_color=1B8A6B&text_color=B22222" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RFernandes10&layout=compact&theme=nightowl&hide_border=true&bg_color=0A0E17&title_color=5B7B88&text_color=B22222" width="48%" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RFernandes10&theme=dracula&hide_border=true" width="100%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RFernandes10&theme=nightowl&hide_border=true&background=0A0E17&stroke=5B7B88&ring=1B8A6B&fire=B22222&currStreakNum=FFFFFF&sideNums=5B7B88" width="100%" />
 </p>
 
 ---
@@ -181,12 +181,17 @@ graph TB
   <a href="mailto:robertofernandes144@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://wa.me/55SEUNUMERO">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  <a href="https://github.com/RFernandes10">
+    <img src="https://img.shields.io/badge/GitHub-0A0E17?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
 <div align="center">
-  <h3> Open to Work | Remoto Brasil / Europa</h3>
+  <h3> Open to Work | Remoto Brasil / Portugal / Europa</h3>
   <em>Construindo soluções com impacto real 🚀</em>
 </div>
+
+---
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0E17,100:5B7B88&height=100&section=footer"/>
+</p>
