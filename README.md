@@ -25,7 +25,7 @@
 </p>
 
 <p align="center">
-  <strong>Open to Work</strong> — Remoto | Brasil | Portugal | 😉
+  <strong>Open to Work</strong> — Remoto | Brasil | Portugal | Espanha | 😉🖥💻
 </p>
 
 ---
