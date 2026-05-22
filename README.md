@@ -166,6 +166,15 @@ Recentemente desenvolvi o [Escola Gestão](https://github.com/RFernandes10/escol
 </p>
 
 ##  GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=RFernandes10&show_icons=true&theme=nightowl&hide_border=true&bg_color=0A0E17&title_color=5B7B88&icon_color=1B8A6B&text_color=B22222" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RFernandes10&layout=compact&theme=nightowl&hide_border=true&bg_color=0A0E17&title_color=5B7B88&text_color=B22222" width="48%" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RFernandes10&theme=nightowl&hide_border=true&background=0A0E17&stroke=5B7B88&ring=1B8A6B&fire=B22222&currStreakNum=FFFFFF&sideNums=5B7B88" width="100%" />
+</p>
+
+---
+
 
 ##  Diferenciais
 
