@@ -121,6 +121,34 @@ Recentemente desenvolvi o [Escola Gestão](https://github.com/RFernandes10/escol
 
 ---
 
+###  Projetos com Live Demo
+###  Portfolio Pessoal
+🔗 [Repositório](https://github.com/RFernandes10/portfolio) • [Live Demo](https://rfernandes10.github.io/portfolio/)
+
+Portfólio profissional desenvolvido com React, TypeScript e Tailwind CSS.
+
+---
+
+###  Cartão de Apresentação
+🔗 [Repositório](https://github.com/RFernandes10/card-apresentacao-react) • [Live Demo](https://rfernandes10.github.io/card-apresentacao-react/)
+
+Cartão de perfil interativo 3D com glassmorphism e temas.
+
+---
+
+###  Huddle Landing Page
+🔗 [Repositório](https://github.com/RFernandes10/huddle-landing-page) • [Live Demo](https://rfernandes10.github.io/huddle-landing-page/)
+
+Landing page responsiva do Frontend Mentor.
+
+---
+
+###  MuvFlix Online
+🔗 [Repositório](https://github.com/RFernandes10/MuvFlix-Online) • [Live Demo](https://rfernandes10.github.io/MuvFlix-Online/)
+
+Catálogo de filmes com TMDB API.
+
+---
 ##  Tech Stack
 
 ### Frontend
