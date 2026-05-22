@@ -65,7 +65,7 @@ Recentemente desenvolvi o [Escola Gestão](https://github.com/RFernandes10/escol
 ---
 
 ###  Project Management Platform
-🔗 [Repositório](https://github.com/RFernandes10/project-management-platform) · [Demo ao vivo](#)
+🔗 [Repositório](https://github.com/RFernandes10/project-management-platform) ·
 
 <p align="center">
   <img src="https://github.com/RFernandes10/project-management-platform/raw/main/docs/screenshots/kanban.png" alt="Project Management Platform Preview" width="100%" />
@@ -103,7 +103,7 @@ Recentemente desenvolvi o [Escola Gestão](https://github.com/RFernandes10/escol
 ---
 
 ###  Autoparts System - Controle de Estoque
-🔗 [Repositório](https://github.com/RFernandes10/autoparts-system) · [Demo ao vivo](#)
+🔗 [Repositório](https://github.com/RFernandes10/autoparts-system) ·
 
 <p align="center">
   <img src="https://github.com/RFernandes10/autoparts-system/raw/main/frontend/public/Screenshot_1.png" alt="Autoparts System Preview" width="100%" />
@@ -207,5 +207,5 @@ Recentemente desenvolvi o [Escola Gestão](https://github.com/RFernandes10/escol
 
 ---
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0E17,100:5B7B88&height=100&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0E17,100:5B7B88&height=100&section=footer"/><br/><img src="https://komarev.com/ghpvc/?username=RFernandes10&color=5B7B88&style=for-the-badge" />/>
 </p>
