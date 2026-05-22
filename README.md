@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0E17,100:5B7B88&height=250&section=header&text=Roberto%20Fernandes&fontSize=45&fontAlignY=40&animation=fadeIn&fontColor=FFFFFF&desc=Fullstack%20Developer%20%7C%20Node.js%20%7C%20React%20%7C%20PostgreSQL&descAlignY=60&descSize=18&descColor=FFFFFF"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0E17,100:5B7B88&height=250&section=header&text=Roberto%20Fernandes&fontSize=45&fontAlignY=40&animation=fadeIn&fontColor=FFFFFF&desc=FullStack%20Developer%20%7C%20Node.js%2C%20React%2C%20TypeScript%2C%20PostgreSQL%20%7C%20REST%20APIs%20%7C%20Scalable%20Web%20Applications&descAlignY=60&descSize=18&descColor=FFFFFF"/>
 </h1>
 
 <p align="center">
@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  <strong>Software Engineer | Full-Stack Developer</strong><br/>
+  <strong>FullStack Developer | Node.js, React, TypeScript, PostgreSQL | REST APIs | Scalable Web Applications</strong><br/>
   Construindo soluções escaláveis que resolvem problemas reais
 </p>
 
