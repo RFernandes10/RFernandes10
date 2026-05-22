@@ -45,7 +45,7 @@ Recentemente desenvolvi o [Escola Gestão](https://github.com/RFernandes10/escol
 ##  Projetos em Destaque
 
 ###  Escola Gestão - Sistema de Gestão Escolar com IA
-🔗 [Repositório](https://github.com/RFernandes10/escola-gestao) · [Ver Projeto](#)
+🔗 [Repositório](https://github.com/RFernandes10/escola-gestao) ·
 
 <p align="center">
   <img src="https://github.com/RFernandes10/escola-gestao/raw/main/images/gestao.png" alt="Escola Gestão Preview" width="100%" />
