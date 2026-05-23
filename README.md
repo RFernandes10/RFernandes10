@@ -45,10 +45,10 @@ Recentemente desenvolvi o [Escola Gestão](https://github.com/RFernandes10/escol
 ##  Projetos em Destaque
 
 ###  Escola Gestão - Sistema de Gestão Escolar com IA
-🔗 [Repositório](https://github.com/RFernandes10/escola-gestao) ·
+🔗 [Repositório](https://github.com/RFernandes10/escola-gestao) · [Live Demo](https://frontend-kappa-ecru-91.vercel.app)
 
 <p align="center">
-  <img src="https://github.com/RFernandes10/escola-gestao/raw/main/images/gestao.png" alt="Escola Gestão Preview" width="100%" />
+  <img src="https://github.com/RFernandes10/escola-gestao/raw/main/images/preview.png" alt="Escola Gestão Preview" width="100%" />
 </p>
 
 **Descrição:** Sistema completo de gestão escolar com foco em RH e integração de IA generativa.
@@ -65,10 +65,10 @@ Recentemente desenvolvi o [Escola Gestão](https://github.com/RFernandes10/escol
 ---
 
 ###  Project Management Platform
-🔗 [Repositório](https://github.com/RFernandes10/project-management-platform) ·
+🔗 [Repositório](https://github.com/RFernandes10/project-management-platform) · [Live Demo](https://project-management-platform-rho.vercel.app)
 
 <p align="center">
-  <img src="https://github.com/RFernandes10/project-management-platform/raw/main/docs/screenshots/kanban.png" alt="Project Management Platform Preview" width="100%" />
+  <img src="https://github.com/RFernandes10/project-management-platform/raw/main/screenshot.png" alt="Project Management Platform Preview" width="100%" />
 </p>
 
 **Descrição:** Plataforma full-stack de gerenciamento de projetos com metodologia Kanban.
@@ -84,7 +84,7 @@ Recentemente desenvolvi o [Escola Gestão](https://github.com/RFernandes10/escol
 ---
 
 ###  GitHub Profile Explorer
-🔗 [Repositório](https://github.com/RFernandes10/GitHub_Profile_Explorer) · [Demo ao vivo](https://rfernandes10.github.io/GitHub_Profile_Explorer/)
+🔗 [Repositório](https://github.com/RFernandes10/GitHub_Profile_Explorer) · [Live Demo](https://rfernandes10.github.io/GitHub_Profile_Explorer/)
 
 <p align="center">
   <img src="https://github.com/RFernandes10/GitHub_Profile_Explorer/raw/main/public/DevQuest.gif" alt="GitHub Profile Explorer Preview" width="100%" />
@@ -103,10 +103,10 @@ Recentemente desenvolvi o [Escola Gestão](https://github.com/RFernandes10/escol
 ---
 
 ###  Autoparts System - Controle de Estoque
-🔗 [Repositório](https://github.com/RFernandes10/autoparts-system) ·
+🔗 [Repositório](https://github.com/RFernandes10/autoparts-system) · [Live Demo](https://autoparts-system.vercel.app)
 
 <p align="center">
-  <img src="https://github.com/RFernandes10/autoparts-system/raw/main/frontend/public/Screenshot_1.png" alt="Autoparts System Preview" width="100%" />
+  <img src="https://github.com/RFernandes10/autoparts-system/raw/main/screenshot.png" alt="Autoparts System Preview" width="100%" />
 </p>
 
 **Descrição:** Sistema completo de gestão para lojas de autopeças com controle de estoque e vendas.
@@ -122,7 +122,11 @@ Recentemente desenvolvi o [Escola Gestão](https://github.com/RFernandes10/escol
 ---
 
 ###  Used Car Catalog
-🔗 [Repositório](https://github.com/RFernandes10/used-car-catalog) ·
+🔗 [Repositório](https://github.com/RFernandes10/used-car-catalog) · [Live Demo](https://used-car-catalog.vercel.app)
+
+<p align="center">
+  <img src="https://github.com/RFernandes10/used-car-catalog/raw/main/screenshot.png" alt="Used Car Catalog Preview" width="100%" />
+</p>
 
 **Descrição:** Catálogo de veículos seminovos com wishlist, comparação e PWA.
 
@@ -139,28 +143,28 @@ Recentemente desenvolvi o [Escola Gestão](https://github.com/RFernandes10/escol
 ###  Projetos com Live Demo
 
 ###  Portfolio Pessoal
-🔗 [Repositório](https://github.com/RFernandes10/portfolio) • [Live Demo](https://rfernandes10.github.io/portfolio/)
+🔗 [Repositório](https://github.com/RFernandes10/portfolio) · [Live Demo](https://rfernandes10.github.io/portfolio/)
 
 Portfólio profissional desenvolvido com React, TypeScript e Tailwind CSS.
 
 ---
 
 ###  Cartão de Apresentação
-🔗 [Repositório](https://github.com/RFernandes10/card-apresentacao-react) • [Live Demo](https://rfernandes10.github.io/card-apresentacao-react/)
+🔗 [Repositório](https://github.com/RFernandes10/card-apresentacao-react) · [Live Demo](https://rfernandes10.github.io/card-apresentacao-react/)
 
 Cartão de perfil interativo 3D com glassmorphism e temas.
 
 ---
 
 ###  Huddle Landing Page
-🔗 [Repositório](https://github.com/RFernandes10/huddle-landing-page) • [Live Demo](https://rfernandes10.github.io/huddle-landing-page/)
+🔗 [Repositório](https://github.com/RFernandes10/huddle-landing-page) · [Live Demo](https://rfernandes10.github.io/huddle-landing-page/)
 
 Landing page responsiva do Frontend Mentor.
 
 ---
 
 ###  MuvFlix Online
-🔗 [Repositório](https://github.com/RFernandes10/MuvFlix-Online) • [Live Demo](https://rfernandes10.github.io/MuvFlix-Online/)
+🔗 [Repositório](https://github.com/RFernandes10/MuvFlix-Online) · [Live Demo](https://rfernandes10.github.io/MuvFlix-Online/)
 
 Catálogo de filmes com TMDB API.
 
