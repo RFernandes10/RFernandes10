@@ -167,7 +167,7 @@ Catálogo de filmes com TMDB API.
 ---
 
 ###  Pokémon App
-🔗 [Repositório](https://github.com/RFernandes10/pokemon-app) ·
+🔗 [Repositório](https://github.com/RFernandes10/pokemon-app) · [Live Demo](https://rfernandes10.github.io/pokemon-app/)
 
 Aplicação de busca e visualização de Pokémon com React, TypeScript e PokéAPI.
 
