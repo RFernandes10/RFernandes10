@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=5B7B88&size=25&center=true&vCenter=true&width=600&lines=Construindo+Soluções+Escaláveis;Clean+Architecture+%7C+SOLID;Apaixonado+por+Tecnologia"/>
+  <img src="https://readme-typing-svg.herokuapp.com/?color=5B7B88&size=25&center=true&vCenter=true&width=600&lines=Construindo+Solu%C3%A7%C3%B5es+Escal%C3%A1veis;Clean+Architecture+%7C+SOLID;Apaixonado+por+Tecnologia"/>
 </p>
 
 <p align="center">
@@ -121,7 +121,23 @@ Recentemente desenvolvi o [Escola Gestão](https://github.com/RFernandes10/escol
 
 ---
 
+###  Used Car Catalog
+🔗 [Repositório](https://github.com/RFernandes10/used-car-catalog) ·
+
+**Descrição:** Catálogo de veículos seminovos com wishlist, comparação e PWA.
+
+**Funcionalidades:**
+-  Catálogo com filtros avançados (marca, modelo, ano, preço)
+-  Sistema de wishlist e comparação entre veículos
+-  Progressive Web App com suporte offline
+-  Dashboard administrativo
+
+**Stack:** React · TypeScript · Node.js · PostgreSQL · Prisma · PWA
+
+---
+
 ###  Projetos com Live Demo
+
 ###  Portfolio Pessoal
 🔗 [Repositório](https://github.com/RFernandes10/portfolio) • [Live Demo](https://rfernandes10.github.io/portfolio/)
 
@@ -149,6 +165,14 @@ Landing page responsiva do Frontend Mentor.
 Catálogo de filmes com TMDB API.
 
 ---
+
+###  Pokémon App
+🔗 [Repositório](https://github.com/RFernandes10/pokemon-app) ·
+
+Aplicação de busca e visualização de Pokémon com React, TypeScript e PokéAPI.
+
+---
+
 ##  Tech Stack
 
 ### Frontend
